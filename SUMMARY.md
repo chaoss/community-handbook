@@ -5,7 +5,7 @@
 * [Roles and Responsibilities](roles-and-responsibilities.md)
 * [CHAOSScast](untitled.md)
 * [CHAOSScon](chaosscon.md)
-* [CHAOSS Metrics Releases](untitled-1/README.md)
-  * [Metrics Translations](untitled-1/metrics-translations.md)
+* [CHAOSS Metrics Releases](choss-metric-releases/README.md)
+  * [Metrics Translations](choss-metric-releases/metrics-translations.md)
 * [Chaoss Website](https://chaoss.community)
 

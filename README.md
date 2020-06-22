@@ -16,5 +16,5 @@ The CHAOSS Community Handbook is a central repository for how we run the project
 
 {% page-ref page="chaosscon.md" %}
 
-{% page-ref page="untitled-1/" %}
+{% page-ref page="choss-metric-releases/" %}
 
