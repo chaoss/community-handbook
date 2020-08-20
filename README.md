@@ -16,5 +16,3 @@ The CHAOSS Community Handbook is a central [repository](https://github.com/chaos
 
 {% page-ref page="choss-metric-releases/" %}
 
-
-
