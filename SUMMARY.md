@@ -10,4 +10,5 @@
 * [Untitled](untitled-2.md)
 * [Chaoss Website](https://chaoss.community)
 * [Values](values.md)
+* [Community Guidelines](community-guidelines.md)
 
