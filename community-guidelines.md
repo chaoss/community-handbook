@@ -14,5 +14,5 @@
 
 **Be focused -** We value community people's time and perspective so If you need to decide or propose something as a team or individual, make a concrete proposal with directing the focused area more clearly instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time.
 
-**Share the love**. We should be appreciable for any decision/idea proposed within the community and should share some love by appreciating it. If someone achieves something within the community then share it on your social handles with your friends, let the world know, and receive some love in return.
+**Share the love -** We should be appreciable for any decision/idea proposed within the community and should share some love by appreciating it. If someone achieves something within the community then share it on your social handles with your friends, let the world know, and receive some love in return.
 
