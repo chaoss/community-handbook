@@ -1,5 +1,7 @@
 # Community Guidelines
 
+### Things you should take into Consideration
+
 \*\*\*\*👋 **Be welcoming and open-minded** - Other collaborators may not have the same experience level or background as you, but that doesn't mean they don't have good ideas to contribute. We encourage you to be welcoming to new collaborators and those just getting started. We value, encourage all types of contributions. We don’t assume you can contribute for free, we respect and thank.
 
 \*\*\*\*😇 **Be honest -** Being honest helps you to move to a better consensus building. So Be honest about who you are, what you do, and how you want to do it. Dishonesty is not only damaging to you but to all other community members and their valuable contributions. Don’t be the one bringing mistrust into this community.
@@ -15,4 +17,13 @@
 \*\*\*\*🎯 **Be focused -** We value community people's time and perspective so If you need to decide or propose something as a team or individual, make a concrete proposal with directing the focused area more clearly instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time.
 
 \*\*\*\*❤ **Share the love -** We should be appreciable for any decision/idea proposed within the community and should share some love by appreciating it. If someone achieves something within the community then share it on your social handles with your friends, let the world know, and receive some love in return.
+
+### What is not Allowed?
+
+*  **Threats of violence** - You may not threaten violence towards others or use the site to organize, promote, or incite acts of real-world violence or terrorism. Think carefully about the words you use, the images you post, and even the software you write, and how they may be interpreted by others.
+*  **Sexually obscene content -** The use of sexualized language or imagery and unwelcome sexual attention or advances
+* **Bullying** - Trolling, insulting/derogatory comments, and personal or political attacks
+* **Harassment** - Public or private harassment
+* **Invasion of privacy** - Publishing others' private information, such as a physical or electronic address, without explicit permission
+* **Misinformation** - Other conduct which could reasonably be considered inappropriate in a professional setting
 
