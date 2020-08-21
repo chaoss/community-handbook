@@ -28,3 +28,7 @@ We make information public by default because transparency is one of our values.
 
 When information is not public, it may also be treated as limited access, only shared with certain CHAOSS community members.
 
+### 🌐 Diversity, Inclusion & Belonging
+
+ Diversity, inclusion, and belonging are fundamental to the success of CHAOSS community. We aim to make a significant impact on our efforts to foster an environment where everyone can thrive. We have designed a multidimensional approach to ensure that CHAOSS community is a place where people from every background and circumstance feel like they belong and can contribute. We actively chose to build and institutionalize a culture that is inclusive and supports all team members equally in the process of achieving their professional goals. We have people participating in our community calls globally and we encourage participation in a diverse set of countries. We work to make everyone feel welcome and to increase the participation of underrepresented minorities and nationalities in our community and company.
+
