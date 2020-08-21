@@ -16,11 +16,11 @@ Everyone is welcome to suggest improvements.
 
 Our goal is focused on creating software and metrics to help define community health. What we really mean by the “sustainable” CHAOSS community is where people have a _sustainable interest_ in keeping the project going, helping others to participate, responding to community challenges, developing new innovations, and so forth. We can’t achieve these things without the help of everyone, creating sustainability for our metrics, software, and people in the working groups.
 
-### \*\*\*\*👐 **Openness:**
+### 👐 **Openness:**
 
-Openness is the key to any open source project. Work in the CHAOSS community is primarily organized around software and metrics. Additionally, user groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics. ****Following through the definition of the openness The CHAOSS community is dedicated to fostering an open and welcoming environment for all people. Anyone can join the mailing list, participate in Zoom meetings, or contribute to any of our projects on GitHub at any time! _We strive to be open!_
+Openness is the key to any open source project. Work in the CHAOSS community is primarily organized around software and metrics. Additionally, user groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics. Following through the definition of the openness The CHAOSS community is dedicated to fostering an open and welcoming environment for all people. Anyone can join the mailing list, participate in Zoom meetings, or contribute to any of our projects on GitHub at any time! _We strive to be open!_
 
-### \*\*\*\*👁 **Transparency:**
+### 👁 **Transparency:**
 
 Being transparent about as many things as possible is an aim for the open source ecosystem. By making information public, we reduce the threshold to contribution and make collaboration easier. We appreciate the use of public issue trackers, projects, and repositories on GitHub when possible.
 
