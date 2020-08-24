@@ -44,3 +44,7 @@ We show up every day, do our jobs, and hit the ground running. We are consistent
 
 We are persistent in maintaining community health by providing ways for the external communities and projects to use metrics and software developed. With the homogeneous support of people around, we are growing and people have good sayings in promoting our brand by spreading the word because they have believed and realized our level of deliverability in terms of metrics and community.
 
+## Trust
+
+Earning trust in an open source community is equally important as being transparent. We have demonstrated our expertise in various subject matters which is focused on community health. We stabilize in maintaining the good community bonds, the safety of privacy issues as a result people feel safe contributing to our core and connected to our project at personal level.
+
