@@ -18,7 +18,7 @@ Our goal is focused on creating software and metrics to help define community he
 
 ## 👐 **Openness:**
 
-Openness is the key to any open source project. Work in the CHAOSS community is primarily organized around software and metrics. Additionally, user groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics. Following through the definition of the openness The CHAOSS community is dedicated to fostering an open and welcoming environment for all people. Anyone can join the mailing list, participate in Zoom meetings, or contribute to any of our projects on GitHub at any time! _We strive to be open!_
+Openness is the key to any open source project. Work in the CHAOSS community is primarily organized around software and metrics. Additionally, user groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics. Following through the definition of the openness, The CHAOSS community is dedicated to fostering an open and welcoming environment for all people. Anyone can join the mailing list, participate in Zoom meetings, or contribute to any of our projects on GitHub at any time! _We strive to be open!_
 
 ## 👁 **Transparency:**
 
