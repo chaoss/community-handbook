@@ -44,7 +44,15 @@ We show up every day, do our jobs, and hit the ground running. We are consistent
 
 We are persistent in maintaining community health by providing ways for the external communities and projects to use metrics and software developed. With the homogeneous support of people around, we are growing and people have good sayings in promoting our brand by spreading the word because they have believed and realized our level of deliverability in terms of metrics and community.
 
-## Trust
+## 🤗 Trust
 
-Earning trust in an open source community is equally important as being transparent. We have demonstrated our expertise in various subject matters which is focused on community health. We stabilize in maintaining the good community bonds, the safety of privacy issues as a result people feel safe contributing to our core and connected to our project at personal level.
+Earning trust in an open source community is equally important as being transparent. We have demonstrated our expertise in various subject matters which is focused on community health. We stabilize in maintaining the good community bonds, the safety of privacy issues as a result people feel safe contributing to our core and connected to our project at a personal level.
+
+## Utility
+
+Work in the CHAOSS Project community is largely organized around software and metrics. Additionally, user groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics.
+
+Many other projects and communities have been utilizing the CHAOSS work to measure the health of community which means that our metrics are useful and actually helps in improving the open source community health for projects.
+
+
 
