@@ -48,7 +48,7 @@ We are persistent in maintaining community health by providing ways for the exte
 
 Earning trust in an open source community is equally important as being transparent. We have demonstrated our expertise in various subject matters which is focused on community health. We stabilize in maintaining the good community bonds, the safety of privacy issues as a result people feel safe contributing to our core and connected to our project at a personal level.
 
-## Utility
+## 📈 Utility
 
 Work in the CHAOSS Project community is largely organized around software and metrics. Additionally, user groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics.
 
