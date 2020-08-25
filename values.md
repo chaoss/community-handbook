@@ -12,9 +12,9 @@ Everyone is welcome to suggest improvements.
 
 **CHAOSS community** is a value-driven organization and here is what we believed in:
 
-## 🌱 **Sustainability:**
+## 🌱 Community Health**:**
 
-Our goal is focused on creating software and metrics to help define community health. What we really mean by the “sustainable” CHAOSS community is where people have a _sustainable interest_ in keeping the project going, helping others to participate, responding to community challenges, developing new innovations, and so forth. We can’t achieve these things without the help of everyone, creating sustainability for our metrics, software, and people in the working groups.
+Our goal is focused on creating software and metrics to help define community health. We are also interested in having a “**healthy**” CHAOSS community where people have an interest in keeping the project going, helping others to participate, responding to community challenges, developing new innovations, and so forth. We can’t achieve these things without the help of everyone, creating sustainability for our metrics, software, and people in the working groups.
 
 ## 👐 **Openness:**
 
@@ -34,25 +34,23 @@ Diversity, inclusion, and belonging are fundamental to the success of CHAOSS com
 
 ## 🏁 Consistency
 
-We show up every day, do our jobs, and hit the ground running. We are consistent with over time with metric and software development which helps us to maintain the momentum of the project and the improvements within that. Consistency requires the following things:
+We are consistent, over time, with metric and software development. This consistency helps us to maintain the momentum of the project and the improvements within that. Consistency requires the following things:
 
-* **Commitment**. We are dependable, reliable, and responsible for our decisions and actions every single day. We’re committed to long-term success and we prefer not taking shortcuts.
-* **Empowerment**. We encourage to build skills and habits that help us focus on our goals.
-* **Mindfulness**. We prefer momentum while remembering our mission and vision. We encourage regular feedback and prefer learning from any mistakes.
+* **Commitment.** We are dependable, reliable, and responsible for our decisions and actions. We’re committed to long-term success and we prefer not taking shortcuts.
+* **Empowerment.** We encourage building skills and spaces that help us focus on our goals.
+* **Mindfulness.** We prefer momentum while remembering our mission. We encourage regular feedback and happily learn from our mistakes.
 
-## 😎 Merit
+## 🏆 Merit
 
-We are persistent in maintaining community health by providing ways for the external communities and projects to use metrics and software developed. With the homogeneous support of people around, we are growing and people have good sayings in promoting our brand by spreading the word because they have believed and realized our level of deliverability in terms of metrics and community.
+We maintain community health by providing ways for others to contribute to and use CHAOSS metrics and software. With support from a wide variety of people, we are a diverse, inclusive, and growing community where all people have equal opportunities to contribute.
 
 ## 🤗 Trust
 
-Earning trust in an open source community is equally important as being transparent. We have demonstrated our expertise in various subject matters which is focused on community health. We stabilize in maintaining the good community bonds, the safety of privacy issues as a result people feel safe contributing to our core and connected to our project at a personal level.
+Earning trust in our open source community is essential. Building trust takes time, concerted effort, and an environment where everyone can contribute. We work to stabilize the development of strong community bonds, the safety and privacy of all, and an environment where people contribute to our project at a personal level.
 
 ## 📈 Utility
 
-Work in the CHAOSS Project community is largely organized around software and metrics. Additionally, user groups provide ways to consider how software and practices can support the deployment of CHAOSS metrics.
-
-Many other projects and communities have been utilizing the CHAOSS work to measure the health of community which means that our metrics are useful and actually helps in improving the open source community health for projects.
+Work in the CHAOSS community is organized around software and metrics. Stemming from these, CHAOSS programs and user groups provide ways to consider how CHAOSS metrics and software can support the ways that we understand open source community health. As organizations and communities have been utilizing the CHAOSS work to measure the health of their respective communities,  our metrics and software are demonstrating utility in ways that help in improving the open source community health for all.
 
 
 
