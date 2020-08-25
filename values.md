@@ -28,11 +28,11 @@ We make information public by default because transparency is one of our values.
 
 When information is not public, it may also be treated as limited access, only shared with certain CHAOSS community members.
 
-## 🌐 Diversity, Inclusion & Belonging
+## 🌐 Diversity, Inclusion & Belonging:
 
 Diversity, inclusion, and belonging are fundamental to the success of CHAOSS community. We aim to make a significant impact on our efforts to foster an environment where everyone can thrive. We take a positive approach to ensure that the CHAOSS community is a place where **all people** can belong and contribute. We actively reflect on a culture that is inclusive and supports everyone equally in the process of achieving their goals. We continually work to welcome and support everyone in our community.
 
-## 🏁 Consistency
+## 🏁 Consistency:
 
 We are consistent, over time, with metric and software development. This consistency helps us to maintain the momentum of the project and the improvements within that. Consistency requires the following things:
 
@@ -40,15 +40,15 @@ We are consistent, over time, with metric and software development. This consist
 * **Empowerment.** We encourage building skills and spaces that help us focus on our goals.
 * **Mindfulness.** We prefer momentum while remembering our mission. We encourage regular feedback and happily learn from our mistakes.
 
-## 🏆 Merit
+## 🏆 Merit:
 
 We maintain community health by providing ways for others to contribute to and use CHAOSS metrics and software. With support from a wide variety of people, we are a diverse, inclusive, and growing community where all people have equal opportunities to contribute.
 
-## 🤗 Trust
+## 🤗 Trust:
 
 Earning trust in our open source community is essential. Building trust takes time, concerted effort, and an environment where everyone can contribute. We work to stabilize the development of strong community bonds, the safety and privacy of all, and an environment where people contribute to our project at a personal level.
 
-## 📈 Utility
+## 📈 Utility:
 
 Work in the CHAOSS community is organized around software and metrics. Stemming from these, CHAOSS programs and user groups provide ways to consider how CHAOSS metrics and software can support the ways that we understand open source community health. As organizations and communities have been utilizing the CHAOSS work to measure the health of their respective communities,  our metrics and software are demonstrating utility in ways that help in improving the open source community health for all.
 
