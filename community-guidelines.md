@@ -27,3 +27,7 @@
 * **Invasion of privacy** - Publishing others' private information, such as a physical or electronic address, without explicit permission
 * **Misinformation** - Other conduct which could reasonably be considered inappropriate in a professional setting
 
+### What happens if someone breaks the rule?
+
+There are a variety of actions that we may take when a user reports inappropriate behavior or content. Please follow the "**Enforcement**" within the [**CHAOSS Code of Conduct**](https://chaoss.community/about/code-of-conduct/) that denotes the appropriate outcome of the inappropriate behavior.
+
