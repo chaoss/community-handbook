@@ -47,10 +47,8 @@ Check out our [**participation page**](https://chaoss.community/participate/) fo
 * [ ] making any other contributions on GitHub \(commits issues\)
 
 {% hint style="info" %}
-**NOTE:** People not participating over a 3 month period may be removed as core contributors.
+**NOTE:** People not participating over a 3 month period may be removed as core contributors.  
 {% endhint %}
-
-#### Criteria for becoming a maintainer 
 
 ### How to define any new focus area of metrics inside any working group?
 
