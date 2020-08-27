@@ -11,4 +11,5 @@
 * [Chaoss Website](https://chaoss.community)
 * [Values](values.md)
 * [Community Guidelines](community-guidelines.md)
+* [Working Groups](working-groups.md)
 
