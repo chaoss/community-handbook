@@ -72,5 +72,10 @@ Most of the work within the working group is done in the following ways:
 * We have a review period for all new and changed metrics \([**see release process**](values.md)\)
 * Working groups work through calls and asynchronously through documents to move towards the decision
 
-### What criteria do the Working groups follow for refining or accepting any metric under the relevant group? 
+### What criteria do the Working groups follow for refining or accepting any metric under the relevant group?
+
+We love hearing about new metrics that provide insights into the relevant working group. For refining any new metric working groups follow this:
+
+* Metrics should be defined sufficiently and appropriately
+* Metrics should follow the template which can be found at [**metrics-template.md**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md) file on Github
 
