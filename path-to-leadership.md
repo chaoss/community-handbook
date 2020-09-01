@@ -43,6 +43,10 @@ Checklist✅before becoming the **Documentation Maintainers**
 * [ ] Keeping the content across the repositories and other platforms updated
 * [ ] Critical thinker and problem-solving skills
 
+{% hint style="info" %}
+**NOTE:** Usually existing maintainers elevate others to maintainers when they see it helpful for the project.
+{% endhint %}
+
 ### **Governance Leadership**
 
 Leadership involved in the process of decision making within the community
@@ -56,6 +60,10 @@ Checklist✅for becoming the **Board Members** and **Decisions Makers**
 * [ ] Holds good critical thinking and problem-solving abilities and can provide better inputs to the communities which can be beneficial for both; the end-users and the communities 
 * [ ] Excellent Knowledge of performance evaluation techniques and key metrics
 
+{% hint style="info" %}
+**NOTE:** New board members are nominated and voted into office by existing board members. Co-leads of the board are nominated and voted into office by existing board members.
+{% endhint %}
+
 ### Operation Leadership
 
 Leadership that addresses every aspect of the community model
@@ -67,5 +75,7 @@ Checklist✅for becoming the **Community Manager**
 * [ ] A growth mindset and an approach to new information and knowledge with curiosity
 * [ ] A challenge seeker who desires and readily takes on new challenges and works towards solutions
 
-
+{% hint style="info" %}
+**NOTE:** Community manager is a paid position and is hired through a job-application process. Selected community members are asked to serve on the search committee to review applications, interview candidates, and make a recommendation.
+{% endhint %}
 
