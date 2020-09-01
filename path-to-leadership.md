@@ -14,11 +14,45 @@ We are a volunteer-driven👥organization which means the work within the CHAOSS
 
 ### Types of Leaderships
 
-Technical Leadership
+**Technical Leadership** - Leadership that focusses on building the amazing projects good engineering teams across the community.
 
-Governance Leadership
+Checklist✅before becoming the **Maintainers**
 
-Operation Leadership
+* [ ] Consistent contributor towards CHAOSS community
+* [ ] Has the ability to commit directly to a Project’s repository
+* [ ] Following best practices
+* [ ] Holds enough knowledge of working groups, metrics and software
+* [ ] Attend community meetings
+* [ ] Holds good knowledge in providing ideas and feedback 
+* [ ] Have knowledge of Git and GitHub
+* [ ] Understand the workflow of the Issues, Pull Requests, and Merge Conflicts
+
+Checklist✅before becoming the **Website Maintainers**
+
+* [ ] Ability to troubleshoot website issues in a fast-paced environment.
+* [ ] Strong attention to detail with an analytical mind and outstanding problem-solving skills.
+* [ ] Excellent content creation and writing skills.
+* [ ] Highly proficient in HTML, CSS design, cross-browser and cross-platform compatibility, firewalls \(functionality and maintenance\), and JavaScript
+
+Checklist✅before becoming the **Documentation Maintainers**
+
+* [ ] Excellent written and communication skills in English
+* [ ] Ability to translate highly technical information into easily understandable information for end-users
+* [ ] Keeping the content across the repositories and other platforms updated
+* [ ] Critical thinker and problem-solving skills
+
+#### Governance Leadership
+
+Checklist✅for becoming the Board Members and Decisions makers
+
+* [ ] Long term consistent contributor for CHAOSS
+* [ ] Involved with the software or metric committee
+* [ ] Proven experience in the same managerial/directorial position
+* [ ] Holds the fair knowledge of the project
+* [ ] Holds good critical thinking and problem-solving abilities and can provide better inputs to the communities which can be beneficial for both; the end-users and the communities 
+* [ ] Excellent Knowledge of performance evaluation techniques and key metrics
+
+#### Operation Leadership
 
 
 
