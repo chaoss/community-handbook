@@ -12,7 +12,7 @@ We are a volunteer-driven👥organization which means the work within the CHAOSS
 **CHAOSS** community has defined its different set of leadership roles under a specific set of [**community guidelines**](https://chaoss-project.gitbook.io/community-handbook/community-guidelines) and [**governance**](https://github.com/chaoss/governance) policies.
 {% endhint %}
 
-## Types of Leaderships
+## Processes for availing the different types of Leaderships
 
 ### **Technical Leadership**
 
