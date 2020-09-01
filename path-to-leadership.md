@@ -4,6 +4,14 @@
 
 The Leader🏅is someone who has specific decision-making power over some part of a group and thus additional accountability and can help in grooming, prioritizing, and planning.
 
+> I think that leader in the CHAOSS community is someone who helps advance the project by contributing directly and coordinating work with others. Leaders should regularly attend the weekly community meetings to report on the work of their respective working group.
+>
+> -- [**Georg J.P. Link**](https://github.com/GeorgLink)**, Director of Sales at Bitergia; Cofounder of CHAOSS**
+
+> Leadership sets the tone for the culture, values, and communication style for everyone else. I think a CHAOSS leader \(whether it be informal or formal\) should embody and foster empathy, compassion, and respect for everyone else working on the project, no matter in what capacity. I think that being an excellent communicator and having a passion for helping open source projects prioritize and measure their community's health is also helpful.
+>
+> -- [**Elizabeth Barron**](https://github.com/ElizabethN)**, Community manager at CHAOSS**
+
 ## Why is leadership important to us?
 
 We are a volunteer-driven👥organization which means the work within the CHAOSS is focused around the creation of metrics and software which entirely depends upon the contributions made by external individuals and communities. We need someone to direct the vision of **creation**, **planning**, and **architecture** of new initiatives within the community n order to drive through the better objectives.
