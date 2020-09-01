@@ -14,7 +14,7 @@ We are a volunteer-driven👥organization which means the work within the CHAOSS
 
 ### Types of Leaderships
 
-**Technical Leadership** - Leadership that focusses on building the amazing projects good engineering teams across the community.
+**Technical Leadership** - Leadership that focusses on building amazing projects and good engineering teams across the community.
 
 Checklist✅before becoming the **Maintainers**
 
@@ -41,7 +41,7 @@ Checklist✅before becoming the **Documentation Maintainers**
 * [ ] Keeping the content across the repositories and other platforms updated
 * [ ] Critical thinker and problem-solving skills
 
-#### Governance Leadership
+**Governance Leadership -** Leadership involved in the process of decision making within the community
 
 Checklist✅for becoming the Board Members and Decisions makers
 
