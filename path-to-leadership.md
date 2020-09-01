@@ -56,7 +56,16 @@ Checklist✅for becoming the **Board Members** and **Decisions Makers**
 * [ ] Holds good critical thinking and problem-solving abilities and can provide better inputs to the communities which can be beneficial for both; the end-users and the communities 
 * [ ] Excellent Knowledge of performance evaluation techniques and key metrics
 
-#### Operation Leadership
+### Operation Leadership
+
+Leadership that addresses every aspect of the community model
+
+Checklist✅for becoming the **Community Manager**
+
+* [ ] Prior technical community management experience is preferred
+* [ ] Self-motivated with the ability to manage multiple competing priorities
+* [ ] A growth mindset and an approach to new information and knowledge with curiosity
+* [ ] A challenge seeker who desires and readily takes on new challenges and works towards solutions
 
 
 
