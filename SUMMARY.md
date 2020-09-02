@@ -13,4 +13,5 @@
 * [Community Guidelines](community-guidelines.md)
 * [Working Groups](working-groups.md)
 * [Path to Leadership](path-to-leadership.md)
+* [Terminology](terminology.md)
 
