@@ -12,6 +12,8 @@ A Tool that defines the health of any community
 
 It is a software quality assurance activity under the CHAOSS that consciously and systematically convenes with one’s fellow programmers to check each other’s code for mistakes, and shows acceleration and streamlines towards the process of software development by following best practices.
 
+![](.gitbook/assets/undraw_code_review_l1q9%20%281%29.png)
+
 ### **Open Source Software Metric**
 
 > Without data, you're just a person with an opinion
@@ -19,6 +21,8 @@ It is a software quality assurance activity under the CHAOSS that consciously an
 > **--** [**W. Edwards Deming**](https://en.wikipedia.org/wiki/W._Edwards_Deming)**, Statistician**
 
 The open source software metric within the CHAOSS project is a documented way of measuring and tracking the success of any open source software/community. [**Read more about Open Source Software Metric**](https://chaoss.community/metrics/)\*\*\*\*
+
+![](.gitbook/assets/undraw_content_creator_xeju-1-.png)
 
 ### **Metric Release**
 
