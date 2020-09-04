@@ -6,7 +6,7 @@ We have developed some terminology to describe the interaction and roles within 
 
 ### **Open Source Community Health**
 
-A Tool that defines the health of any community
+The potential that an open source software community continues developing quality software.
 
 ### **Code Review**
 
