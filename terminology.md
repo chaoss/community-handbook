@@ -56,7 +56,7 @@ It is the directory where all the weekly newsletters are hosted. [**Read more ab
 
 The ****Charter sets forth the responsibilities and procedures for technical contribution to and oversight of, the CHAOSS – Community Health Analytics Open Source Software Project \(the “Project”\) within The Linux Foundation. Contributors to the Project must comply with the terms of the Charter as well as any applicable policies of The Linux Foundation. [**Read about Charter**](https://chaoss.community/about/charter/)\*\*\*\*
 
-## **Entities and Structures**
+## CHAOSS Committees 
 
 ### **CHAOSS Project**
 
@@ -117,4 +117,52 @@ A person who responds to the CoC incident reports made on the mailing list.
 ### **Twitter Manager**
 
 An individual who handles the CHAOSS Twitter handle and who is responsible for likes, re-tweets, and sharing status updates from [**@CHAOSSproj**](https://twitter.com/CHAOSSproj).
+
+## **CHAOSS Community Working Group Terminology**
+
+### **Working Groups around Metric:**
+
+### **Common Metric Working Group**
+
+The ****group that focuses on defining the metrics that are used by both working groups or are important for community health, but that does not cleanly fit into one of the other existing working groups.
+
+### **Diversity & Inclusion Working Group**
+
+The group ****that ****aims to bring together experiences measuring diversity and inclusion in open source projects.
+
+### **Evolution Working Group**
+
+The group which focusses on refining the metrics that inform evolution and to work with software implementations.
+
+### **Risk Working Group**
+
+The group which focuses on compliance and risk metrics.
+
+### **Value Working Group**
+
+The working group that focuses on industry-standard metrics for economic value in open source.
+
+**Working Groups around Software:**
+
+### **GrimoireLab**
+
+This working group connects the GrimoireLab software development with metrics work in other CHAOSS working groups.
+
+### **Augur**
+
+This working group connects the Augur software development with metrics work in other CHAOSS working groups.
+
+### **Cregit**
+
+This working group connects the Cregit software development with metrics work in other CHAOSS working groups.
+
+### **Working Groups around User Groups**
+
+### **Application Ecosystem**
+
+This working group applies CHAOSS metrics in the context of an open source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
+
+### **Diversity & Inclusion Badging**
+
+**App Ecosystem Working Group**
 
