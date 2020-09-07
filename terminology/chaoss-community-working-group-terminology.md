@@ -1,30 +1,28 @@
 # CHAOSS Community Working Group Terminology
 
-## \*\*\*\*
+## **Working Groups around Metric**
 
-### **Working Groups around Metric:**
-
-### **Common Metric Working Group**
+### **Common Metric**
 
 The ****group that focuses on defining the metrics that are used by both working groups or are important for community health, but that does not cleanly fit into one of the other existing working groups.
 
-### **Diversity & Inclusion Working Group**
+### **Diversity & Inclusion**
 
 The group ****that ****aims to bring together experiences measuring diversity and inclusion in open source projects.
 
-### **Evolution Working Group**
+### **Evolution**
 
 The group which focusses on refining the metrics that inform evolution and to work with software implementations.
 
-### **Risk Working Group**
+### **Risk**
 
 The group which focuses on compliance and risk metrics.
 
-### **Value Working Group**
+### **Value**
 
 The working group that focuses on industry-standard metrics for economic value in open source.
 
-**Working Groups around Software:**
+## **Working Groups around Software**
 
 ### **GrimoireLab**
 
@@ -38,11 +36,11 @@ This working group connects the Augur software development with metrics work in 
 
 This working group connects the Cregit software development with metrics work in other CHAOSS working groups.
 
-### **Working Groups around User Groups**
+## **Working Groups around User Groups**
 
 ### **Application Ecosystem**
 
-This working group applies CHAOSS metrics in the context of an open source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
+This working group applies CHAOSS metrics in the context of an open-source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
 
 ### **Diversity & Inclusion Badging**
 
