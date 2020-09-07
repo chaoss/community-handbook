@@ -164,5 +164,5 @@ This working group applies CHAOSS metrics in the context of an open source app e
 
 ### **Diversity & Inclusion Badging**
 
-**App Ecosystem Working Group**
+The working group that encourages projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
 
