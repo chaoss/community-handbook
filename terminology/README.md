@@ -8,5 +8,5 @@ We have developed some terminology to describe the interaction and roles within 
 
 {% page-ref page="chaoss-community-working-group-terminology.md" %}
 
-
+{% page-ref page="chaoss-community-mentorship-terminology.md" %}
 
