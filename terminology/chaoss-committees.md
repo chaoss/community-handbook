@@ -32,7 +32,7 @@ A self-selected group of people who associate with the CHAOSS Community, no cont
 
 ### **Core Contributors**
 
-The people who are major contributors to CHAOSS through long-term participation in any working group.
+The individuals who are major contributors to CHAOSS through long-term participation in any working group.
 
 ![Illustartion taken from unDraw under the open license](../.gitbook/assets/undraw_team_page_re_cffb.png)
 
@@ -86,7 +86,7 @@ A person who responds to the CoC incident reports made on the mailing list.
 
 ### **Twitter Manager**
 
-The person who handles the CHAOSS Twitter handle and who is responsible for likes, re-tweets, and sharing status updates from [**@CHAOSSproj**](https://twitter.com/CHAOSSproj).
+An individual who handles the CHAOSS Twitter handle and who is responsible for likes, re-tweets, and sharing status updates from [**@CHAOSSproj**](https://twitter.com/CHAOSSproj).
 
 ![Illustartion taken from unDraw under the open license](../.gitbook/assets/undraw_viral_tweet_gndb-1-.png)
 
