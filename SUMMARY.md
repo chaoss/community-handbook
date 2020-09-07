@@ -13,5 +13,8 @@
 * [Community Guidelines](community-guidelines.md)
 * [Working Groups](working-groups.md)
 * [Path to Leadership](path-to-leadership.md)
-* [Terminology](terminology.md)
+* [Terminology](terminology/README.md)
+  * [CHAOSS Specific Terms](terminology/chaoss-specific-terms.md)
+  * [CHAOSS Committees](terminology/chaoss-committees.md)
+  * [CHAOSS Community Working Group Terminology](terminology/chaoss-community-working-group-terminology.md)
 
