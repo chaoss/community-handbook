@@ -4,6 +4,8 @@
 
 The potential that an open-source software community continues developing quality software.
 
+![Illustartion taken from unDraw under the open license](../.gitbook/assets/undraw_medicine_b1ol.png)
+
 ### **Code Review**
 
 It is a software quality assurance activity under the CHAOSS that consciously and systematically convenes with one’s fellow programmers to check each other’s code for mistakes, and shows acceleration and streamlines towards the process of software development by following best practices.

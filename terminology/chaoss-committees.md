@@ -1,7 +1,5 @@
 # CHAOSS Committees
 
-##  
-
 ### **CHAOSS Project**
 
 A Linux Foundation open source project that advances our understanding of and tooling for open source community health. ****Check it out the ****[**CHAOSS website**](https://chaoss.community/)\*\*\*\*
@@ -10,7 +8,7 @@ A Linux Foundation open source project that advances our understanding of and to
 
 Any person who participates in and contributes to the CHAOSS community.
 
-### **Organisation**
+### **Organization**
 
 An organization represents a company or legal entity in the world engaging with the CHAOSS project. 
 
