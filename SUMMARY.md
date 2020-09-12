@@ -19,4 +19,5 @@
   * [CHAOSS Community Working Group Terminology](terminology/chaoss-community-working-group-terminology.md)
   * [CHAOSS Community Mentorship Terminology](terminology/chaoss-community-mentorship-terminology.md)
 * [Terminology Usage](terminology-usage.md)
+* [Roadmap](roadmap.md)
 
