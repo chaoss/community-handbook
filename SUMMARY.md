@@ -20,4 +20,5 @@
   * [CHAOSS Community Mentorship Terminology](terminology/chaoss-community-mentorship-terminology.md)
 * [Terminology Usage](terminology-usage.md)
 * [Roadmap](roadmap.md)
+* [Google Summer of Code](google-summer-of-code.md)
 
