@@ -20,7 +20,7 @@ Google awards stipends to students who successfully complete a free and open-sou
 * **Observe Community Interactions:** Join both the development and user mailing lists and spend a few days just reading the conversations.
 * **Introduce Yourself** on the communication channels
 * **Familiarize yourself** with the community's [**Code of Conduct**](https://chaoss.community/about/code-of-conduct/)\*\*\*\*
-* **Attend weekly CHAOSS meetings** and jump into discussions
+* **Attend weekly CHAOSS meetings** and jump into discussions \([connection details](https://chaoss.community/participate/)\)
 * **Install your development environment** in your local machine and gets familiarize with the codebase
 * **Read the project ideas page** and discuss with mentors on the specific idea you are interested with
 * **Get Knowledge about GSOC** by understanding it and reading about it on [**Wikipedia** ](https://en.wikipedia.org/wiki/Google_Summer_of_Code)and getting through [**GSOC Student Manual**](https://google.github.io/gsocguides/student/)\*\*\*\*
