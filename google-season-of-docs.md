@@ -12,6 +12,8 @@ During the program, technical writers spend a few months working closely with an
 
 The open-source projects work with the technical writers to improve the project's documentation and processes. Together they may choose to build a new documentation set, or redesign the existing docs, or improve and document the open-source community's contribution procedures and onboarding experience.
 
+**Official Website -** [**https://developers.google.com/season-of-docs**](https://developers.google.com/season-of-docs)\*\*\*\*
+
 ## Involving as a Technical Writer ✍ 
 
 Technical Writers are the people who bring technical writing expertise to an open-source project by working with the community on the documentation.
@@ -56,4 +58,8 @@ Mentors are people from the community who volunteer to work with a student. Ment
 * **Able to devote at least 5-6 hours** towards the project and mentee
 * **Holds fair knowledge of the project** you are mentoring
 * **Attend meetings** with your mentee and seek updates from them about their progress
+
+{% hint style="warning" %}
+**Source Citation:** [**GSod Official Website**](https://developers.google.com/season-of-docs)\*\*\*\*
+{% endhint %}
 
