@@ -36,3 +36,19 @@ Outreachy internships run twice a year, May to August and December to March. We 
 * Otherwise, if your university is near the equator, you may apply to any round. We will review university term schedules on a case-by-case basis.
 * If you are completing your last term for your degree, you may be eligible for either round, regardless of what hemisphere you are in.
 
+## Outreachy Annual Schedule
+
+**Outreachy internships run twice a year. Here is our general schedule for each year:**
+
+| Round Dates | Mid-Year Internships | End-Year Internships |
+| :---: | :---: | :---: |
+| Initial application opens | late January | late Agust |
+| Initial applications due | end of February | end of September |
+| Contribution period opens | March | October |
+| Final application and contributions due | April | November |
+| Interns announced | May | November |
+| Internships start | May | December |
+| Internships end | August | March |
+
+
+
