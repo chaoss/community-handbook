@@ -10,6 +10,8 @@ Google Summer of Code is a global program focused on bringing more student devel
 
 Google awards stipends to students who successfully complete a free and open-source software coding project during the summer. The program is open to university students aged 18 or over. The amount of the stipend depends on the [**purchasing power parity**](https://en.wikipedia.org/wiki/Purchasing_power_parity) of the country where the student's university is located. Project ideas are listed by host organizations involved in open-source software development, though students can also propose their own project ideas.
 
+**Official Website -** [**https://summerofcode.withgoogle.com/**](https://summerofcode.withgoogle.com/)\*\*\*\*
+
 ## Involving as a Student 👨🎓 
 
 ### Before Being Accepted
