@@ -1,6 +1,6 @@
 # Outreachy
 
-## About Outreachy
+## About Outreachy ![](.gitbook/assets/outreachy-logo.png) 
 
 Outreachy is a paid, remote internship program. Outreachy's goal is to support people from groups underrepresented in tech. They help newcomers to free software and open-source make their first contributions.
 
@@ -12,7 +12,7 @@ Interns work with experienced mentors from open source communities. Outreachy in
 
 **They also expressly invite applications who are residents and nationals of the United States of America of any gender who are Black/African American, Hispanic/Latin, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.**
 
-## **Outreachy Eligibility Rules**
+## **Outreachy Eligibility Rules** ✔ 
 
 {% hint style="info" %}
 **NOTE:** These eligibility rules are exactly the same and have been taken from the ****[**Outreachy official website**](https://www.outreachy.org/docs/applicant/#what-is-outreachy)\*\*\*\*
@@ -36,7 +36,7 @@ Outreachy internships run twice a year, May to August and December to March. We 
 * Otherwise, if your university is near the equator, you may apply to any round. We will review university term schedules on a case-by-case basis.
 * If you are completing your last term for your degree, you may be eligible for either round, regardless of what hemisphere you are in.
 
-## Outreachy Annual Schedule
+## Outreachy Annual Schedule 📆 
 
 **Outreachy internships run twice a year. Here is our general schedule for each year:**
 
@@ -52,7 +52,7 @@ Outreachy internships run twice a year, May to August and December to March. We 
 
 ## Expectations
 
-### For Outreachy Interns
+### For Outreachy Interns 👨🎓 
 
 * **Interns are expected to work 40 hours** a week for at least 12 weeks of the 13-week internship.
 * **Getting familiar with the community** by introducing yourself on the mailing list and observing the community interactions
@@ -62,7 +62,7 @@ Outreachy internships run twice a year, May to August and December to March. We 
 * **Attend weekly CHAOSS meetings** and jump into discussions
 * **Honest, committed, and responsive** while preparing for the outreachy application or working with the CHAOSS community
 
-### For Outreachy Mentors
+### For Outreachy Mentors 👨💻 
 
 * **Outreachy mentors should be able to provide a project for the intern to work on.**
 * **Review student proposals** and work with other mentors and organization admins to select the best candidates for CHAOSS
