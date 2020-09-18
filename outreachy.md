@@ -50,5 +50,24 @@ Outreachy internships run twice a year, May to August and December to March. We 
 | Internships start | May | December |
 | Internships end | August | March |
 
+## Expectations
 
+### For Outreachy Interns
+
+* **Interns are expected to work 40 hours** a week for at least 12 weeks of the 13-week internship.
+* **Getting familiar with the community** by introducing yourself on the mailing list and observing the community interactions
+* **Make prior contributions** towards the CHAOSS community
+* **Setup the development environment** on your local and understand the project outcome and expectations fairly on which you want to work 
+* **Set up milestones** for your project and discuss with the CHAoSS mentors and community members 
+* **Attend weekly CHAOSS meetings** and jump into discussions
+* **Honest, committed, and responsive** while preparing for the outreachy application or working with the CHAOSS community
+
+### For Outreachy Mentors
+
+* **Outreachy mentors should be able to provide a project for the intern to work on.**
+* **Required to commit 5 hours per week towards the intern** - including answering questions, reviewing contributions, and meeting with interns
+* **A real-time meeting** at least once a week - either through real-time chat, video conference, or phone
+* **Detailed and timely review of contributions** - if a mentor is unable to provide contribution review, they are responsible for finding community members who can
+* **Guidance** to interns about time management
+* **Holds fair knowledge of the project** you are mentoring
 

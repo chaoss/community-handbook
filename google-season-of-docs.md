@@ -54,7 +54,7 @@ Mentors are people from the community who volunteer to work with a student. Ment
 ### Expectations from a Mentor
 
 * **Have read the** "[**Mentor Responsibilities**](https://developers.google.com/season-of-docs/docs/admin-mentor-responsibilities)" within the GSoD guide
-* **Review student proposals** and work with other mentors and organization admins to select the best candidates for Codeuino.
+* **Review student proposals** and work with other mentors and organization admins to select the best candidates for CHAOSS.
 * **Able to devote at least 5-6 hours** towards the project and mentee
 * **Holds fair knowledge of the project** you are mentoring
 * **Attend meetings** with your mentee and seek updates from them about their progress
