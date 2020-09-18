@@ -65,9 +65,14 @@ Outreachy internships run twice a year, May to August and December to March. We 
 ### For Outreachy Mentors
 
 * **Outreachy mentors should be able to provide a project for the intern to work on.**
+* **Review student proposals** and work with other mentors and organization admins to select the best candidates for CHAOSS
 * **Required to commit 5 hours per week towards the intern** - including answering questions, reviewing contributions, and meeting with interns
 * **A real-time meeting** at least once a week - either through real-time chat, video conference, or phone
 * **Detailed and timely review of contributions** - if a mentor is unable to provide contribution review, they are responsible for finding community members who can
 * **Guidance** to interns about time management
 * **Holds fair knowledge of the project** you are mentoring
+
+{% hint style="warning" %}
+**Source Citation:** [**Outreachy Internship Guide**](https://www.outreachy.org/docs/internship/#mentor-expectations)**,** [**Outreachy Applicant Guide**](https://www.outreachy.org/docs/applicant/)**,** and ****[**Outreachy Official Website**](https://www.outreachy.org/)\*\*\*\*
+{% endhint %}
 
