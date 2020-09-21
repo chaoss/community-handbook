@@ -4,7 +4,7 @@
 
 ### What is CHAOSS design? 🖌 
 
-As the community is being mobilized, and it fosters around **Community Health Analytics Open Source Software** so all its members participate in the choices about what action to undertake in design and provide better user experience, it becomes useful to combine those choices and decisions and lay some guidelines. Designers use such guidelines to judge how to adopt principles such as intuitiveness, learnability, efficiency, and consistency so they can create compelling designs and meet and exceed user needs.
+As the community gathers around the topic of **Open Source Community Health,** all members participate in the choices about what action to undertake in designing and providing better user experience. It is useful to coordinate those choices and decisions by laying out some guidelines. Designers use such guidelines to judge how to adopt principles such as intuitiveness, learnability, efficiency, and consistency so they can create compelling designs and meet and exceed user needs.
 
 Hence, CHAOSS design is a place where we solve design principle issues and improve the design structure of the community projects
 
@@ -12,9 +12,10 @@ Hence, CHAOSS design is a place where we solve design principle issues and impro
 
 We are trying to:
 
-* Improve better user experience and provide high-quality design solutions.
-* Bring and encourage the community together to contribute to design-related issues of different sizes and complexity.
-* Bridge up the gap between the designers and developers to follow the smooth process for the design solutions.
+* Improve user experience.
+* Provide high-quality design solutions.
+* Bring the community together to contribute to design-related issues.
+* Bridge the gap between the designers and developers to follow the smooth process for the design solutions.
 
 ### How you can contribute? 💡 
 
