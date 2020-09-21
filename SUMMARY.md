@@ -23,5 +23,6 @@
 * [Google Summer of Code](google-summer-of-code.md)
 * [Google Season of Docs](google-season-of-docs.md)
 * [Outreachy](outreachy.md)
-* [Design](design.md)
+* [Design](design/README.md)
+  * [Design Worklfow](design/design-worklfow.md)
 
