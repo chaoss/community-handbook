@@ -9,3 +9,17 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 * **How do we get what we want?** We need solid ideation in order to achieve any goal - Does the community agrees to follow the new goal? Do we have any plans or processes to achieve the new design goal? 
 * **What will happen when we do?** We need to understand the future impact for any specific design goal - Is the problem solved? Is this what you were looking forward to having? Will it create a better impact on the CHAOSS community? 
 
+### Ways of Achieving
+
+![Design created by Jaskirat SIngh ](../.gitbook/assets/ch.png)
+
+\*\*\*\*💡 **Planning** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions. 
+
+\*\*\*\*🧐 **Research** - Make generative research together with the CHAOSS community members the requirements and assets that are needed. Check what impedes their productivity.
+
+\*\*\*\*✍ **Documentation** - Documentation stands out as one of the most important parts of any implementation design goal. After making fair research you should write down all the requirements you need with the available resources.
+
+\*\*\*\*🖌 **Designing** - High time! Once all the objectives and requirements are defined, draft your thoughts into the canvas that will help in solving the critical design problem that you are trying to achieve.
+
+\*\*\*\*🧪 **Testing** - Testing is the stage in the design process that enables you to evaluate your design problem or service with real users and enables you to create more community-oriented design solutions.
+
