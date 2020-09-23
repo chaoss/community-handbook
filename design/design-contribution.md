@@ -36,3 +36,11 @@ It's design documentation that includes feedback from users, general researches 
 
 ## Getting Started
 
+We don't have a particular platform for listing all the design problems but we follow this general process in order to accomplish any design goal:
+
+* Come up with the design idea and discuss it on the CHAOSS mailing list
+* Another way of contributing is to open an issue on the project repository and tell maintainers about your idea.
+* Discuss your designing strategies and documentation
+* Design on your canvas tool \(Figma, Adobe Photoshop. etc\)
+* Discuss your design submission on the mailing list and on the GitHub issues. Don't forget to mention an appropriate label \(**design label**\)
+
