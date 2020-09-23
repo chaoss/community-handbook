@@ -24,5 +24,6 @@
 * [Google Season of Docs](google-season-of-docs.md)
 * [Outreachy](outreachy.md)
 * [Design](design/README.md)
+  * [Design Contribution](design/design-contribution.md)
   * [Design Worklfow](design/design-worklfow.md)
 
