@@ -14,7 +14,7 @@ Welcome! We’re glad you’re interested in contributing to the CHAOSS Communit
 
 **Be Consistent** - The consistency helps us to maintain the momentum of the project and the improvements within the community designs.
 
-## Different Design Issues
+## Different Design Contributions
 
 ### Graphic Design
 
