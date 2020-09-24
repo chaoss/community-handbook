@@ -25,5 +25,6 @@
 * [Outreachy](outreachy.md)
 * [Design](design/README.md)
   * [Design Contribution](design/design-contribution.md)
+  * [CHAOSS Visual Identity](design/chaoss-visual-identity.md)
   * [Design Worklfow](design/design-worklfow.md)
 
