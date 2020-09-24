@@ -24,7 +24,7 @@
 * [Google Season of Docs](google-season-of-docs.md)
 * [Outreachy](outreachy.md)
 * [Design](design/README.md)
+  * [Design Worklfow](design/design-worklfow.md)
   * [Design Contribution](design/design-contribution.md)
   * [CHAOSS Visual Identity](design/chaoss-visual-identity.md)
-  * [Design Worklfow](design/design-worklfow.md)
 
