@@ -27,5 +27,6 @@
   * [Design Worklfow](design/design-worklfow.md)
   * [Design Contribution](design/design-contribution.md)
   * [CHAOSS Visual Identity](design/chaoss-visual-identity.md)
-* [Development](development.md)
+* [Development](development/README.md)
+  * [Contributing Worfkflow](development/contributing-worfkflow.md)
 
