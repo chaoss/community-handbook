@@ -2,7 +2,6 @@
 
 * [CHAOSS Community Handbook - Table of Contents](README.md)
 * [Roles and Responsibilities](roles-and-responsibilities.md)
-* [Untitled](untitled-2.md)
 * [Chaoss Website](https://chaoss.community)
 * [Values](values.md)
 * [Community Guidelines](community-guidelines.md)
