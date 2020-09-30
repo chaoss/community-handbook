@@ -2,6 +2,38 @@
 
 > **This is CHAOSScast,** the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen.
 
+**Table of Content:**
+
+* [Key roles and people]()
+  * [Roles]()
+  * [Organizers]()
+  * [Panelists]()
+  * [Guest]()
+  * [Coordinator]()
+  * [Rebase.fm contact]()
+* [Important links]()
+* [Strategy]()
+  * [Name](https://github.com/chaoss/governance/blob/master/community-handbook/name-chaosscast)
+  * [Subtitle]()
+  * [Description]()
+  * [Goal]()
+  * [Audience]()
+  * [Scope]()
+  * [Style]()
+  * [Format]()
+  * [Sample interview questions]()
+* [Automation]()
+* [Procedures]()
+  * [Scheduling an episode]()
+  * [Recording an episode]()
+  * [Publishing an episode]()
+* [CHAOSScast sponsorship and revenue]()
+  * [Revenue background]()
+  * [How much revenue?]()
+  * [How will the revenue be used?]()
+  * [Revenue FAQ]()
+* [Acknowledgements]()
+
 ## Key roles and people
 
 This is a CHAOSS Community project and should never rely on one person only.
@@ -34,27 +66,35 @@ A **panelist** is responsible for research, asking questions, and adding to the 
 * Daniel Izquierdo
 * Andrea Gallo
 * Kate Stewart
-* ... \(you?\)
+* Armstrong Foundjem
+* ... you?
 
 ### Guest
 
-* A **guest** is requested to discuss up-front what they want to talk about and provide references.
+A **guest** is requested to discuss up-front what they want to talk about and provide references.
 
 We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to keep track of who we want to invite.
 
-### CPN contact
+### Coordinator
 
-CHAOSS partners with the **CodeFund Podcast Network** \(CPN\) for the editing, monetization, and publishing of the podcast.
+A **coordinator** assists with the finer details of confirming podcast dates/times and acts as a central point of communication for all other roles. This role also sends out post-podcast thank you gifts. This is currently assigned to the CHAOSS Community Manager.
+
+* [Elizabeth Barron](https://github.com/elizabethn)
+
+### Rebase.fm contact
+
+CHAOSS partners with the **Rebase.fm** \(formerly known as **CodeFund Podcast Network** \(CPN\)\) for the editing, monetization, and publishing of the podcast.
 
 * Justin Dorfman
+* Eric Berry
 
 ## Important links
 
-* [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) \(maintained by CPN\)
+* [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) \(maintained by CPN\) \[NOTE: not sure if this will remain under Rebase.fm\]
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
 * [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates and epsiode release schedule
-* Email address for podcast, forwareded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
-* [CPN Slack channel \#chaoss-podcast](https://codefundio.slack.com/archives/G01257RGK8Q)
+* Email address for podcast, forwarded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
+* Rebase.fm Discord \#chaoss channel: Please ask the coordiantor for an invite
 * [Open Collective](https://opencollective.com/chaosscast) for revenue
 
 ## Strategy
@@ -121,48 +161,52 @@ Georg Link has an IFTT recipe to:
 
 * If new item in this RSS feed [https://feeds.fireside.fm/chaosscast/rss](https://feeds.fireside.fm/chaosscast/rss)
 * Then tweet it from @CHAOSSproj
-  * Examplet tweet: [https://twitter.com/CHAOSSproj/status/1256137855606444032](https://twitter.com/CHAOSSproj/status/1256137855606444032)
+  * Example tweet: [https://twitter.com/CHAOSSproj/status/1256137855606444032](https://twitter.com/CHAOSSproj/status/1256137855606444032)
 
 ## Procedures
 
-These procedures are for the organizer of each episode:
+These procedures are for the organizer and coordinator of each episode:
 
 ### Scheduling an episode
 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
-* **Step 1:** Determine a guest and panlists
-  * \*\*Action: \*\*Recruit interview guest and decide topic together
-    * Ask for 60-90 minute timeslots that work for guest.
-    * Create a Doodle poll for panelists to schedule time
-  * **Action:** Prepare the planning document \(copy the template and start filling in information\)
-  * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) with a [Doodle](https://github.com/chaoss/governance/blob/master/community-handbook/doodle.com) for finding a time
-    * Invite guest
-    * Invite panelists \([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)\)
-      * Prioritize those who said they were interested in the topic
-      * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
-* **Step 2** \(about 1 week after sending invites\): schedule recording
-  * **Action:** Lock in date in Doodle poll
-  * **Action:** Send calendar invitation for the best date of podcast
-    * Prioritize availability of the guest
-    * Adjust panelists based on availability
+* **Step 1:** Determine a guest \(Anyone\)
+  * **Action:** Recruit interview guest and decide topic and content of the podcast together
+* **Step 2:** Coordinate Episode \(Coordinator\)
+  * **Action:** Send invitiation email \(content TBD\) to guest to find a few potential suitable dates and times \(60-90 minutes.\)
+  * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
+  * **Action:** Prepare the planning document \(copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.\)
+  * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no \([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)\)
+    * Prioritize those who said they were interested in the topic
+    * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
+  * **Action:** Confirm with 1-2 panelists that replied "yes" and notify others who replied yes that the panel is already complete.
+  * **Action:** Reserve the session on the [Rebase.fm Calendly](https://calendly.com/rebasefm/chaosscast) for recording purposes.
+  * **Action:** Send calendar invitation with confirmed date of the podcast \(only the guest, organizer, and panelists that will be in the episode
     * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-      * This will sync with the CPN main calendar
       * All organizers should have full access to the calendar \(i.e., Make changes and manage sharing\)
     * Name calendar event:🎙 CHAOSScast {with guest}
       * Start with the microphone emoticon \(🎙\) to signal recording meeting
   * **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
-  * **Action:** Update the episode planning document
+  * **Action:** Update the episode planning document with recording time and zoom link
   * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
+  * **Action:** If the episode is more than two weeks out, schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 1 week before the episode recording
   * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
+* **Step 3:** Finalize Content \(Organizer\)
+  * **Action:** Update the episode planning document with the main topics and questions
+* **Step 4:** Post-Episode Thank You Notes \(Coordinator\)
+  * **Action:** When the episode is scheduled for release that week, notify guest and get their mailing address
+  * **Action:** Sign thank you note and assemble with swag
+  * **Action:** Mail out thank you note with swag
+  * **Action:** Add date of shipment on [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to confirm it was sent
 
 ### Recording an episode
 
-* On day of podcast:
+* On day of podcast \(Organizer and Panelists\):
   * **Action:** Review the [CHAOSScast Recording Procedures](https://docs.google.com/document/d/1G_CFd8CqwxLCahLrC-4XRzaad0OdLX43AY_--UPK2lo/edit#) before the session starts
     * Feel good about yourself and get excited!
-* When podcast session starts:
-  * Join the Zoom room on time \(records automatically
+* When podcast session starts \(Organizer and Panelists\):
+  * Join the Zoom room on time \(records automatically\)
   * Be yourself
   * Enjoy
 
@@ -185,7 +229,7 @@ These procedures are for the organizer of each episode:
     * Title Format: Episode 123: My Great Title \(default\)
     * Content: Clean \(unless we used swear words\)
     * Summary: First paragraph from the Show Notes are a good starting point
-    * Description: Use the [template](https://docs.google.com/document/d/1ly7HLve8grPxOp0RDBID63XxMcEC5-ZAdHmQlAG3gPk/edit), then insert the converted show notes.
+    * Description: Insert the show notes in Markdown format.
       * Hint: convert show notes to Google Doc and export as Markdown
     * Keywords: \(use sparingly to avoid keyword cannibilization\)
     * Tags: \(empty\) -- we can use tags later for having sub-podcasts
@@ -209,30 +253,15 @@ These procedures are for the organizer of each episode:
 
 ### Revenue background
 
-CHAOSScast is part of the CodeFund Podcast Network \(CPN\). CPN has sponsorship deals to fund the work on the podcast. CHAOSScast can expect about $125/episode.
-
-Revenue will be deposited to [Open Collective](https://opencollective.com/chaosscast).
+CHAOSScast is part of the Rebase.fm which has sponsorship deals to fund the work on the podcast. Rebase.fm shares its revenue with CHAOSScast. Shared revenue will be deposited to [Open Collective](https://opencollective.com/chaosscast).
 
 ### How much revenue?
 
-Approximately $125/episode
-
-~ $1,500/year if we release one episode per month
-
-~ $3,000/year if we release two episodes per month
+$25 per episode
 
 ### How will the revenue be used?
 
 This podcast is not about the funding, but it does come with some opportunity to invest further into the podcast and the CHAOSS community as a whole.
-
-The breakdown will look like this:
-
-```text
-70% Reinvest in Podcast
-30% Outreachy
------------------------
-100%
-```
 
 #### Budget item: reinvest in podcast
 
@@ -245,25 +274,21 @@ Money in this budget can be used for:
 
 1. What is the approval process for money distribution from the Reinvest in Podcast budget?
 
-* The CHAOSS governance team has delegated responsibility to manage these funds in good faith to the podcast coordinators \(Georg Link and Matthew Broberg\). To request funding, send a request to: [podcast@chaoss.community](mailto:podcast@chaoss.community). The coordinators will follow the following guidelines:
-  1. The request is denied if at least one coordinator denies it.
-  2. The request is approved when both coordinators approve.
+* The CHAOSS governance team has delegated responsibility to manage these funds in good faith to the podcast coordinator and organizers. To request funding, send a request to: [podcast@chaoss.community](mailto:podcast@chaoss.community). The coordinators will follow the following guidelines:
+  1. The request is denied if at least one organizer denies it.
+  2. The request is approved when at least two coordinators or organizers approve.
 
 1. What kind of “thank you” notes will go out to podcast guests?
 
-* The team is currently exploring reasonably priced options to provide a small benefit for participation. This could include stickers or a collectible poker chip. Reach out to the podcast email at: [podcast@chaoss.community](mailto:podcast@chaoss.community) to learn more.
+* The thank you note contains a postcard, pokerchip, and 3 stickers, all branded with the CHAOSScast logo.
 
 1. Who is eligible to make a request for equipment?
 
 * Recurring hosts in need of improving their audio configuration can make a reasonable request to the team. A guideline of a minimum of three \(3\) podcasts before making a request is recommended, but all requests will be considered based on need and availability of funds.
 
-1. Why is there budgeting funds for Outreachy?
-
-* It is a goal of the CHAOSScast to support the CHAOSS project’s goal. The CHAOSS Governing Board Finance Committee requested support in growing funds toward Outreachy, and the podcast is supporting that effort. Money in this budget can be used for Outreachy internships or related items. The Committee is exclusively in charge of this portion of the budget.
-
 1. Where will these funds be stored?
 
-* CPN will make the funds available to CHAOSS through an [Open Collective](https://opencollective.com/chaosscast). If the funds grow to a point of needing to transfer them externally, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
+* Rebase.fm will make the funds available to CHAOSS through an [Open Collective](https://opencollective.com/chaosscast). If the funds grow to a point of needing to transfer them to Community Bridge, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
 
 ## Acknowledgements
 

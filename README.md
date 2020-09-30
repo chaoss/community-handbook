@@ -10,8 +10,6 @@ The CHAOSS Community Handbook is a central [repository](https://github.com/chaos
 
 {% page-ref page="roles-and-responsibilities.md" %}
 
-{% page-ref page="chaosscast.md" %}
-
 {% page-ref page="chaosscon.md" %}
 
 {% page-ref page="choss-metric-releases/" %}
