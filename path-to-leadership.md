@@ -29,12 +29,11 @@ Leadership that focuses on building amazing projects and good engineering teams 
 Checklist✅before becoming a **Maintainer**
 
 * [ ] Makes consistent contributions within the CHAOSS community
-* [ ] Has the ability to commit directly to a project repository
 * [ ] Holds knowledge of working groups, metrics, and software
 * [ ] Attends community meetings
 * [ ] Holds good knowledge in helping others achieve their goals
 * [ ] Has knowledge of Git and GitHub
-* [ ] Understands the workflow of the Issues and Pull Requests
+* [ ] Understands the workflow of CHAOSS Issues and Pull Requests
 
 Checklist✅before becoming a **Website Maintainer**
 
@@ -60,12 +59,10 @@ Leadership involved in the process of decision making within the community
 
 Checklist✅for becoming a **Board Member** and **Decisions Maker**
 
-* [ ] **Long t**erm and consistent contributor within the CHAOSS project
+* [ ] Long term and consistent contributor within the CHAOSS project
 * [ ] Involved with the software or metric working groups
-* [ ] Experience in a managerial/directorial position
 * [ ] Holds knowledge and interest in the CHAOSS project
-* [ ] Holds critical thinking and problem-solving abilities and can provide thoughtful input to the project
-* [ ] Excellent Knowledge of performance evaluation techniques and key metrics
+* [ ] Holds critical thinking and problem-solving abilities and can provide thoughtful input to the entire project
 
 {% hint style="info" %}
 **NOTE:** New board members are nominated and voted into office by existing board members. Co-leads of the board are nominated and voted into office by existing board members.
