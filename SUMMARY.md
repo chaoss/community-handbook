@@ -3,7 +3,6 @@
 * [CHAOSS Community Handbook - Table of Contents](README.md)
 * [Handbook Usage](handbook-usage.md)
 * [Roles and Responsibilities](roles-and-responsibilities.md)
-* [CHAOSScon](chaosscon.md)
 * [CHAOSS Metrics Releases](choss-metric-releases/README.md)
   * [Metrics Translations](choss-metric-releases/metrics-translations.md)
 * [Untitled](untitled-2.md)
@@ -29,4 +28,6 @@
 * [Development](development/README.md)
   * [Contributing Worfkflow](development/contributing-worfkflow.md)
 * [CHAOSScast](chaosscast.md)
+* [CHAOSScon](untitled.md)
+* [Handbook Usage](untitled-1.md)
 
