@@ -2,9 +2,9 @@
 
 ### What is the Working Group?
 
-\*\*\*\*📔 **Dictionary says**, "_Working Group is a group of experts working together to achieve specified goals_" and this is what **CHAOSS Working Groups** signifies - The groups that are primarily organized around metrics and software.
+\*\*\*\*📔 **Dictionary says**, "_A Working Group is a group of experts working together to achieve specified goals_" and this is what **CHAOSS Working Groups** signify - The groups that are primarily organized around metrics and software.
 
-### Types of CHAOSS Working Groups
+### The CHAOSS Working Groups
 
 In order to learn more about these groups, you should refer to their GitHub repositories.
 
@@ -29,13 +29,13 @@ Working Groups around **User Groups** 👥\*\*\*\*
 
 ### Who all can participate?
 
-The CHAOSS community is dedicated to fostering an open and welcoming environment for all contributors.
+The CHAOSS community is dedicated to fostering an open and welcoming environment for all contributors. Everyone can contribute!
 
-#### Criteria for participating as a normal contributor
+#### Criteria for participating as a contributor
 
-The CHAOSS community welcomes and encourages participation from anyone. We believe that our culture is focused on diversity and inclusion which is the key driver of our creativity, innovation, and invention.
+The CHAOSS community welcomes and encourages participation from anyone. We believe that our culture is focused on diversity and inclusion which is the key driver of our creativity, innovation, and communication.
 
-We welcome contributions from everyone as long as they interact constructively with our community by participating in working groups meeting calls and providing feedback, and suggestions on metrics and software.
+We welcome contributions from everyone as long as they interact constructively with our community by participating in working groups meeting calls and providing feedback and suggestions on metrics and software.
 
 Check out our [**participation page**](https://chaoss.community/participate/) for participating within the different working groups. _Don't forget to experience it!_ 😉 
 
@@ -52,7 +52,7 @@ Check out our [**participation page**](https://chaoss.community/participate/) fo
 
 ### How to define any new focus area of metrics inside any working group?
 
-Here are the steps to define any new **Focus Area**🎯of metric inside any working group:
+Here are the steps to define any new **Focus Area**🎯for metrics inside any working group:
 
 * **Understand the background of each working group** - Understand the background of each of "[**Common Metric**](https://github.com/chaoss/wg-common#background)", "[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion#background)", "[**Evolution**](https://github.com/chaoss/wg-evolution#introduction)", "[**Value**](https://github.com/chaoss/wg-value#problem-statement)", and [**Risk**](https://github.com/chaoss/wg-risk#background) ****thoroughly.
 * **Ask yourself** - _Under what category my focus area lies?_  Try to relate your focus area with already existing focus areas. If you are able to relate it with the existing focus area and background that means its all set. 👍 
@@ -64,11 +64,12 @@ Here are the steps to define any new **Focus Area**🎯of metric inside any work
 Most of the work within the working group is done in the following ways:
 
 * Issues for keeping track of metrics we are working on with the links to google docs
-* We use general google docs for collaborating and discussing on a specific metrics
-* We use `markdown files` in the working group for a more permanent place for metric
-* We continue the discussion in the pull request until we decide to merge it
+* We use google docs for collaborating and discussing specific metrics
+* We use `markdown files` in the working group for a more permanent place for metrics
+* We continue the discussion in the pull request until we decide to merge a new metric
 * We have a review period for all new and changed metrics \([**see release process**](values.md)\)
 * Working groups work through calls and asynchronously through documents to move towards the decision
+* Once the review period is successfully completed, the metric becomes part of the [CHAOSS metrcis release](https://chaoss.community/metrics/)
 
 ### What criteria do the Working groups follow for refining or accepting any metric under the relevant group?
 
