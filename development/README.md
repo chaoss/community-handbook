@@ -52,4 +52,5 @@ The CHAOSS community's projects have been divided in the following ways:
   * \*\*\*\*[**chaoss / augur-auggie**](https://github.com/chaoss/augur-auggie) **-** Auggie implementation utilizing Amazon Lex to classify messages.
   * \*\*\*\*[**chaoss / augur-community-reports**](https://github.com/chaoss/augur-community-reports) - A set of Jupyter Lab Notebooks and Other Implementations of Community Reports in Standard Form
 * **Cregit**
+  * \*\*\*\*[**cregit / cregit**](https://github.com/cregit/cregit) **-**
 
