@@ -31,7 +31,7 @@ The CHAOSS community's projects have been divided in the following ways:
   * [**chaoss / grimoirelab-elk**](https://github.com/chaoss/grimoirelab-elk) - GrimoireELK is the component that interacts with the ElasticSearch database.
   * [**chaoss / grimoirelab-sigils**](https://github.com/chaoss/grimoirelab-sigils) - These are panels from GrimoireLab dashboards
   * [**chaoss / grimoirelab-sortinghat**](https://github.com/chaoss/grimoirelab-sortinghat) - Sorting Hat maintains an SQL database of unique identities of community members across \(potentially\) many different sources.
-  * \*\*\*\*[**chaoss / grimoirelab-sirmordred**](https://github.com/chaoss/grimoirelab-sirmordred) ****- Orchestrate the execution of GrimoireLab tools to produce a dashboard
+  * [**chaoss / grimoirelab-sirmordred**](https://github.com/chaoss/grimoirelab-sirmordred)- Orchestrate the execution of GrimoireLab tools to produce a dashboard
   * \*\*\*\*[**chaoss / grimoirelab-perceval**](https://github.com/chaoss/grimoirelab-perceval) - Send Sir Perceval on a quest to retrieve and gather data from software repositories.
   * \*\*\*\*[**chaoss / grimoirelab-tutorial**](https://github.com/chaoss/grimoirelab-tutorial) -  This repository contains the tutorials for the grimoirelab project
   * \*\*\*\*[**chaoss / grimoirelab-hatstall**](https://github.com/chaoss/grimoirelab-hatstall) **-**  Hatstall is a web interface for [SortingHat](http://github.com/grimoirelab/sortinghat) databases developed mainly with [Django](https://www.djangoproject.com/) 
