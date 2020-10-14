@@ -31,4 +31,5 @@
 * [Documentation](documentation/README.md)
   * [Style Guide](documentation/style-guide.md)
 * [Outreach](outreach.md)
+* [Metrics](metrics.md)
 
