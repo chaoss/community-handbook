@@ -1,6 +1,6 @@
 # Design
 
-![](../.gitbook/assets/logo-large_1123x271.png)
+![](../../.gitbook/assets/logo-large_1123x271.png)
 
 ### What is CHAOSS design? 🖌 
 

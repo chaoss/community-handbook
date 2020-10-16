@@ -1,6 +1,6 @@
 # CHAOSS Community Mentorship Terminology
 
-![Illustartion taken from unDraw under the open license](../.gitbook/assets/undraw_shared_workspace_hwky.png)
+![Illustartion taken from unDraw under the open license](../../.gitbook/assets/undraw_shared_workspace_hwky.png)
 
 ### Organization Administaror
 
