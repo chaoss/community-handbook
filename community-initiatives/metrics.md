@@ -16,7 +16,7 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 * Someone writes a draft for the metric using our [**Template for Metric**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md) using google docs. The person proposing the metric could do this.
 * The working group discusses the metric and makes the required changes.
 * A markdown version of the metric is added to the working group repository.
-* The metric is ready for the [**Continuous Metric Contribution and Regular Release**](https://github.com/chaoss/governance/blob/master/community-handbook/metrics-release.md)\*\*\*\*
+* The metric is ready for the [**Continuous Metric Contribution and Regular Release**](https://handbook.chaoss.community/community-handbook/community-initiatives/untitled-3)\*\*\*\*
 
 ### Some Metric Useful Resources
 
