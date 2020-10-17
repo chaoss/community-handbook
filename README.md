@@ -26,9 +26,9 @@ The CHAOSS Community Handbook is a central [repository](https://github.com/chaos
 
 {% page-ref page="community-initiatives/working-groups.md" %}
 
-{% page-ref page="community-initiatives/metrics.md" %}
+{% page-ref page="community-initiatives/metrics/" %}
 
-{% page-ref page="community-initiatives/untitled-3.md" %}
+{% page-ref page="community-initiatives/metrics/untitled-3.md" %}
 
 {% page-ref page="community-initiatives/untitled-4.md" %}
 
