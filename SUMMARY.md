@@ -44,3 +44,9 @@
 * [Google Season of Docs](mentorships/google-season-of-docs.md)
 * [Outreachy](mentorships/outreachy.md)
 
+---
+
+* [About](about-1/README.md)
+  * [Page 1](about-1/page-1.md)
+* [Community](community.md)
+
