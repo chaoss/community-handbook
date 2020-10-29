@@ -44,7 +44,22 @@
 * [Google Season of Docs](mentorships/google-season-of-docs.md)
 * [Outreachy](mentorships/outreachy.md)
 
-## INITIATIVE
+## D&I BADGING <a id="initiative"></a>
 
-* [D&I Badging](https://handbook.chaoss.community/badging/)
+* [Overview of the D&I Badging](initiative/untitled.md)
+* [How to contribute](initiative/how-to-contribute.md)
+* [Applying for a badge](initiative/applying-for-a-badge/README.md)
+  * [Apply for Virtual Event](initiative/applying-for-a-badge/apply-for-virtual-event.md)
+  * [Apply for In-Person Event](initiative/applying-for-a-badge/apply-for-in-person-event.md)
+* [Reviewing](initiative/reviewing/README.md)
+  * [D&I Badging Code of Conduct](initiative/reviewing/d-and-i-badging-code-of-conduct.md)
+  * [The Review Process](initiative/reviewing/the-review-process.md)
+  * [Apply to Review](initiative/reviewing/apply-to-review.md)
+* [Roles and Responsibility](initiative/roles-and-responsibility/README.md)
+  * [Applicants](initiative/roles-and-responsibility/applicants.md)
+  * [Reviewers](initiative/roles-and-responsibility/reviewers.md)
+  * [Moderators](initiative/roles-and-responsibility/moderators.md)
+  * [Maintainers](initiative/roles-and-responsibility/maintainers.md)
+* [The badging-bot](initiative/the-badging-bot.md)
+* [Conflict of Interest Policy](initiative/conflict-of-interest-policy.md)
 
