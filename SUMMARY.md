@@ -25,6 +25,7 @@
 * [Community Report](community-initiatives/untitled-4.md)
 * [CHAOSScon](community-initiatives/untitled-1.md)
 * [CHAOSScast](community-initiatives/chaosscast.md)
+* [CHAOSS Meetings](community-initiatives/chaoss-meetings.md)
 
 ## CONTRIBUTING
 
