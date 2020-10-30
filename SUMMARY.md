@@ -5,6 +5,7 @@
 
 ## ABOUT
 
+* [CHAOSS History](about/chaoss-history.md)
 * [Values](about/values.md)
 * [Roadmap](about/roadmap.md)
 * [Roles and Responsibilities](about/roles-and-responsibilities.md)
