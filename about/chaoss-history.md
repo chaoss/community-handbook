@@ -1,5 +1,11 @@
 # CHAOSS History
 
+{% hint style="info" %}
+**NOTE**: Click on the below image to see the zoomed version of the CHAOSS History Timeline.
+{% endhint %}
+
+![](../.gitbook/assets/frame-2.jpg)
+
 ### Evolution of CHAOSS at Open Source Sumit North America
 
 There was a meeting at the Linux Foundation Leadership Summit which is now known as the member summit. It started from the whiteboard in the room where some groups of people planned to talk about community health. There were many interests from the people and there were folks from the Open Source program Office and different foundations. Concluding through the community health discussions, it leads to the evolution of CHAOSS at Open Source Summit North America 2017
