@@ -4,7 +4,7 @@
 **NOTE**: Click on the below image to see the zoomed version of the CHAOSS History Timeline.
 {% endhint %}
 
-![](../.gitbook/assets/frame-2.jpg)
+![](../.gitbook/assets/frame-2-1-.jpg)
 
 ### Evolution of CHAOSS at Open Source Sumit North America
 
