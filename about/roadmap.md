@@ -10,3 +10,11 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 
 The Working Groups within the CHAOSS are focused on releasing new metrics where metrics are identified and defined using a continuous contribution process. The metrics are officially released biannually following a 30 day comment period. [**Check out about the metric release**](https://github.com/chaoss/governance/blob/master/community-handbook/metrics-release.md)\*\*\*\*
 
+### **Software Releases**
+
+The software committee within the CHAOS community is focused on producing integrated open source software for analyzing software community development across the metric mechanism.
+
+### Working Groups
+
+The working group aims to bring together experiences measuring common metrics, diversity and inclusion, evolution, risk, and value in open source projects. Its main goal focuses on understanding from a qualitative and quantitative point of view how different things can be measured within the community.
+
