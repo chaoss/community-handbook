@@ -17,6 +17,7 @@
   * [CHAOSS Community Working Group Terminology](about/terminology/chaoss-community-working-group-terminology.md)
   * [CHAOSS Community Mentorship Terminology](about/terminology/chaoss-community-mentorship-terminology.md)
 * [Terminology Usage](about/terminology-usage.md)
+* [General FAQ](about/general-faq.md)
 
 ## COMMUNITY <a id="community-initiatives"></a>
 
