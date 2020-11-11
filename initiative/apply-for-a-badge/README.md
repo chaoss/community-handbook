@@ -1,6 +1,4 @@
-# Applying for a badge
-
-## The badge is for what? 
+# Apply for a badge
 
 {% hint style="info" %}
 We are planning to provide D&I badges for **technical events** and **open-source projects**. While currently, we only support D&I badge applications for **events.** Project applications will be covered in later versions.
@@ -26,7 +24,7 @@ Please read the following documents first before applying:
 
 * [Applicant role](https://github.com/badging/diversity-and-inclusion/blob/master/roles/applicant.md) 
 * [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md)
-* [Event submission guideline](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md)
+* [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md)
 
 **Click the Button Below to Apply for Event Badge**
 
@@ -36,13 +34,15 @@ By clicking the button you will be navigated to [the CHAOSS Event Badging submis
 
 **The Submission Workflow**
 
-Please fill out the web form with the kind of event you have chosen to your best ability, provide as much information as you want, and click "Submit".
+Please fill out the web form to apply for a badge. Provide as much information as you want, and click "Submit".
+
+![](../../.gitbook/assets/image%20%285%29.png)
 
 You will be redirected to GitHub with a pre-populated issue. This issue will be generated under the`event-diversity-and-inclusion`badging repository with the information you provided on the web form. **You must use your GitHub account to finalize the issue on their Website by clicking "Create New Issue", or your submission will be invalid.**
 
 Once the Issue is successfully created, at least two reviewers will then be assigned to review your issue. They will assess the event's D&I Practices using a [review checklist.](https://app.gitbook.com/@chaoss-project/s/badging/~/drafts/-MHfMz780wz3WnO_1TbA/reviewing/review-checklist)
 
-**Communicate with reviewers and moderators**
+**Communicate with Reviewers and Moderators**
 
 Please pay attention to the issue you submitted before you acquire the final badge. Reviewers may leave suggestions in the issue to request more information. Applicants must maintain communication with reviewers during the review period.
 
@@ -60,6 +60,8 @@ The review is finalized when a moderator confirms that the application and check
 
 Here is an example of a newly granted badge:
 
+![](../../.gitbook/assets/image%20%284%29.png)
+
 {% tabs %}
 {% tab title="Markdown Badge Link" %}
 ```text
@@ -76,8 +78,4 @@ Here is an example of a newly granted badge:
 
 * Embed the **Markdown Badge Link** if you wish to display the badge on any markdown File.
 * Embed the **HTML Badge Link** on an HTML page if you wish to display the badge on your event website.
-
-### 
-
-### 
 
