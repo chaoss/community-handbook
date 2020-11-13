@@ -64,4 +64,5 @@
   * [Moderator](initiative/roles-and-responsibility/moderator.md)
   * [Maintainer](initiative/roles-and-responsibility/maintainer.md)
 * [The badging-bot](initiative/the-badging-bot.md)
+* [D&I Badging Code of Conduct](initiative/d-and-i-badging-code-of-conduct.md)
 
