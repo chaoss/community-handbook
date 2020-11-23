@@ -81,13 +81,13 @@ description: This page contains the roles and responsibilities of the CHAOSS com
 
 ## Twitter Manager
 
-* Like and re-tweet tweets about @CHAOSSproj that are relevant
+* Follow us at @CHAOSSproj, Like and re-tweet your thoughs
 * Share status updates from @CHAOSSproj
 * Promote CHAOSS events
 
 ## Code of Conduct Enforcement Team member
 
-\(luckily we have had no reports yet\)
+\(We don't have any reports yet\)
 
 * monitor mailing list to which reports can be made
 * respond to reports
@@ -109,8 +109,8 @@ description: This page contains the roles and responsibilities of the CHAOSS com
 ## New Member
 
 * Attend community and workgroup meetings
-* Register for mailing lists
-* Try to find ways to help
+* Subscribe to our mailing lists
+* Find out ways to contribute
 * Catch up on GitHub and other tools used by CHAOSS
 * See how you can align what you do elsewhere with what goes on in CHAOSS
 * Ask questions about CHAOSS and what is being worked on
