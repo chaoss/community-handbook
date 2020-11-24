@@ -43,6 +43,6 @@ We suggest adding text with the pull request explaining why the change should be
 
 We provide two methods to can help with the documentation. You can either **adjust the documentation on GitHub** or **check the correctness of translated documentation.**
 
-* If you want to reword this documentation,  we have a synchronized [documentation repository](https://github.com/badging/documentation-unavailable) on GitHub. Please open a pull request here to make revisions. Revisions for clarity are precious contributions for us.
+* If you want to reword this documentation,  we have a synchronized [documentation repository](https://github.com/badging/documentation-unavailable) on GitHub. Please open a pull request here to make revisions. Documentation revisions are precious contributions to us.
 * If you are a speaker of one of the languages this documentation is using \(except English\), it is appreciated to help us check that version of the documentation. Please open a pull request here to make revisions. Foreign language support is also precious to us.
 

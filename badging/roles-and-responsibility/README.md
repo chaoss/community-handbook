@@ -4,7 +4,7 @@
 
 Different roles undertake different parts of responsibilities in D&I Badging workflow. Badging roles are: **applicants, reviewers, moderators, maintainers.**  Responsibilities concerned here are to make sure submissions and reviews are working well, specifically for the GitHub related section of the workflow. 
 
-Applicants and reviewers are the most fundamental and indispensable roles of D&I Bading, since they consist core sections of the badging workflow: applying and reviewing. Besides this, we also need moderators to coordinate between applicants and reviewers, and maintainers who are responsible for the whole project.
+Applicants and reviewers are the most fundamental and indispensable roles of D&I Badging, since they consist core sections of the badging workflow: applying and reviewing. Besides this, we also need moderators to coordinate between applicants and reviewers, and maintainers who are responsible for the whole project.
 
 Click the following tab bar to see the definition of each role.
 
@@ -30,13 +30,18 @@ As most of the responsibilities are related to the workflow on GitHub, it's impo
 
 ## Permission table on GitHub
 
-| Repository Permission | Applicant | Reviewer | Maintainer | Moderator |
+{% hint style="info" %}
+Please refer to [Repository permission levels for an organization](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-organizations-and-teams/repository-permission-levels-for-an-organization) on GitHub Docs to understand how each GitHub permission level works.
+{% endhint %}
+
+| Repository Permission | Applicant | Reviewer | Moderator | Maintainer |
 | :--- | :--- | :--- | :--- | :--- |
+| GitHub permission level | Read | Write | Maintain/Admin/ | Maintain/Admin |
 | Create a CHAOSS Badging application | Y | N | N | N |
 | Edit the Review Checklist | N | Y | N | N |
-| Request reviews | N | N | N | Y |
+| Request reviews | N | N | Y | N |
 | Edit the opening Issue comment | Y | N | N | N |
-| Generate the Badge | N | N | N | Y |
+| Generate the Badge | N | N | Y | N |
 | Close the Issue | N | N | Y | Y |
 
 {% hint style="success" %}

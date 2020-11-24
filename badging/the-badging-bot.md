@@ -2,9 +2,9 @@
 
 ## Command & Functionality
 
-We integrate a GitHub app called `@badging-bot` to help us coordinate the workflow. The main function is improving the efficiency of the reviewing process with some automated integration. You can also interact with `@badging-bot`using several commands.
+We integrate a GitHub app called `badging-bot` to help us coordinate the workflow. The main function is improving the efficiency of the reviewing process with some automated integration. You can also interact with `badging-bot`using several commands.
 
-### Functions of @badging-bot
+### Functions of badging-bot
 
 * Guide applicants/reviewers
 * Assign reviewers for a submission
@@ -17,9 +17,9 @@ We integrate a GitHub app called `@badging-bot` to help us coordinate the workfl
 
 [https://github.com/badging/event-diversity-and-inclusion/issues/46](https://github.com/badging/event-diversity-and-inclusion/issues/46)
 
-This is a mock submission illustrating the review process, look how and when `@badging-bot` is triggered:
+This is a mock submission illustrating the review process, look how and when `badging-bot` is triggered:
 
-* **A new submission is created**: once the issue of a new submission is successfully initiated, `@badging-bot` will do three things:
+* **A new submission is created**: once the issue of a new submission is successfully initiated, `badging-bot` will do three things:
   * greet the applicant and provide guiding information, [see example](https://github.com/badging/event-diversity-and-inclusion/issues/46#issuecomment-674938374)
   * assign reviewers according to `reviewers.md`
   * open a checklist for the assigned reviewer, [see example](https://github.com/badging/event-diversity-and-inclusion/issues/46#issuecomment-674938396)
@@ -43,7 +43,7 @@ This is a mock submission illustrating the review process, look how and when `@b
 * Only moderators are allowed to use this command.
 
 ```text
-#obtain the final badge and close the issue
+#obtain t5he final badge and close the issue
 /end
 ```
 
