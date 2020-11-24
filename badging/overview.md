@@ -6,13 +6,9 @@
 
 The Diversity and Inclusion Badging program uses a peer-review system to encourage projects and events to obtain badges. It aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
-The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS D&I working group.
+The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. The work of the Badging Program is closely associated with the CHAOSS D&I working group.
 
 CHAOSS is a Linux Foundation project. For more information about CHAOSS, please visit the website at [chaoss.community](https://chaoss.community/)
-
-## Problem Statement
-
-Diversity in open source is opaque to participants, newcomers, and stakeholders because contributors are distributed, and in many cases are an agglomeration of individuals in different locations. Inclusivity for open source projects is impeded by long-standing practices that have side effects that act to reproduce the current state of limited diversity. 
 
 ## Goal
 
