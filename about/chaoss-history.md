@@ -34,3 +34,7 @@ The Risk working group was formed to focus on metrics for issues pertaining to r
 
 Value group was formed to develop the metrics that, when measured, help make the impact of community work more transparent. Developers and organizations capture value from engaging in OSS communities. This set of metrics can inform what this value is. 
 
+### Start of CHAOSScon conference
+
+CHAOSScon evolved from the Grimoirecon which Bitergia had been organizing before it became a part of CHAOSS in 2017, and the time when the Bitergia joined the CHAOSS, there were discussions to have the CHAOSS conference altogether. 1 year later when the Grimoirelab conference was organized it was initially called as CHAOSScon + Grimoirecon after the discussion but later it was just called as CHAOSScon because comunity thought that it was important for the individual projects to have its conference where they could Learn about open source project health metrics and tools used by open source projects, communities, and engineering teams to track and analyze their community work.
+
