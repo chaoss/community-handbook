@@ -18,9 +18,9 @@ This guide provides several angles for you to get started. We hope one of them w
 
 ### Participate as a reviewer
 
-If you want to be part of the review team, please see [“Apply to review”](https://chaoss-project.gitbook.io/badging/reviewing/apply-to-review). 
+If you want to be part of the review team, please see [“Apply to review”](https://handbook.chaoss.community/community-handbook/badging/reviewing/apply-to-review). 
 
-Sign up as a reviewer and you can get in touch with different events and projects, measure how Diversity and Inclusion they are. When doing the reviewing job, please make sure you have read the reviewer’s guidance and understand our [D&I badging conflict of policy.](https://chaoss-project.gitbook.io/badging/reviewing/d-and-i-badging-conflict-of-interest-policy)
+Sign up as a reviewer and you can get in touch with different events and projects, measure how Diversity and Inclusion they are. When doing the reviewing job, please make sure you have read the reviewer’s guidance and understand our [D&I badging conflict of policy.](https://handbook.chaoss.community/community-handbook/badging/reviewing/conflict-of-interest-policy)
 
 ### Contribute to the workflow
 
@@ -41,8 +41,5 @@ We suggest adding text with the pull request explaining why the change should be
 
 ### Contribute to this documentation
 
-We provide two methods to can help with the documentation. You can either **adjust the documentation on GitHub** or **check the correctness of translated documentation.**
-
-* If you want to reword this documentation,  we have a synchronized [documentation repository](https://github.com/badging/documentation-unavailable) on GitHub. Please open a pull request here to make revisions. Documentation revisions are precious contributions to us.
-* If you are a speaker of one of the languages this documentation is using \(except English\), it is appreciated to help us check that version of the documentation. Please open a pull request here to make revisions. Foreign language support is also precious to us.
+To optimize this documentation,  there is a synchronized community handbook [documentation repository](https://github.com/chaoss/community-handbook) on GitHub. Please open a pull request there to make revisions. Documentation revisions are also precious contributions for us.
 

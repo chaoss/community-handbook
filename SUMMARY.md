@@ -54,7 +54,7 @@
 * [Apply for a badge](badging/apply-for-a-badge/README.md)
   * [Apply for an In-Person Event](badging/apply-for-a-badge/apply-for-in-person-event.md)
   * [Apply for a Virtual Event](badging/apply-for-a-badge/apply-for-virtual-event.md)
-* [Reviewing](badging/reviewing/README.md)
+* [Reviewing for CHAOSS](badging/reviewing/README.md)
   * [Apply to Review](badging/reviewing/apply-to-review.md)
   * [The Review Process](badging/reviewing/the-review-process.md)
   * [Conflict of Interest Policy](badging/reviewing/conflict-of-interest-policy.md)

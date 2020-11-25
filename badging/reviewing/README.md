@@ -1,4 +1,4 @@
-# Reviewing
+# Reviewing for CHAOSS
 
 ## Introduction
 
@@ -11,7 +11,7 @@ A CHAOSS D&I Badging application starts when an event organizer opens an issue o
 ### Please Consider
 
 * You need a GitHub account to review for the D&I Badging program.
-* Once you become a reviewer of D&I Badging \(see [apply to review]() on how to be a reviewer\), your GitHub handle will be added to the review list and you will be assigned to new issues.
+* Once you become a reviewer of D&I Badging \(see [apply to review](https://handbook.chaoss.community/community-handbook/badging/reviewing/apply-to-review) on how to be a reviewer\), your GitHub handle will be added to the review list and you will be assigned to new issues.
 * You can read [CHAOSS D&I metrics](https://github.com/chaoss/wg-diversity-inclusion/), especially metrics under the Event Diversity focus area to get a further grasp before reviewing.
 
 {% hint style="warning" %}
@@ -20,7 +20,7 @@ Please make sure you don't miss an assignment notification. If a reviewer provid
 
 ### While You Are Reviewing
 
-The Reviewer's task is to analyze the information given by an event organizer using the Review Checklist. The reviewer provides their observations according to the Review Checklist and feedback on how an application can be improved if certain checks are not met. You may find more guidance for this process in the [review process](https://app.gitbook.com/@chaoss-project/s/badging/~/drafts/-MJirYUfuIbUmKKz6-6k/reviewing/review-checklist/@drafts) section.
+The Reviewer's task is to analyze the information given by an event organizer using the Review Checklist. The reviewer provides their observations according to the Review Checklist and feedback on how an application can be improved if certain checks are not met. You may find more guidance for this process in the [review process](https://handbook.chaoss.community/community-handbook/badging/reviewing/the-review-process) section.
 
 ### How to Review
 

@@ -1,10 +1,10 @@
 # Moderator
 
-### Responsibilities
+## Responsibilities
 
 This will be a role that will belong to participants who would help in closing a Badging Application and declaring the final badge for an application.
 
-### GitHub Permissions
+## GitHub Permissions
 
 {% hint style="info" %}
 Repository permission level: Administrate / Write
@@ -16,7 +16,7 @@ A moderator will be expected to:
 * Confirm the Review Checklists are adequately marked by the reviewers.
 * When the review ends, comment `/end` to mark the application as closed. This will generate the badges which the Applicant can use.
 
-### Moderator guide
+## Moderator guide
 
 Moderators are responsible for ensuring that reviewers and applicants understand the Badging workflow. This is done through issue comments, pull request comments, and other Badging discussions. The Moderators in the Badging organization are required to have a strong understanding of D&I practices within an open-source organization.
 
@@ -25,7 +25,7 @@ Moderators are responsible for ensuring that reviewers and applicants understand
 * Generate a badge when the reviewers have filled out the checklist and the applicants have implemented all feedback.
 * Provide advice and understanding where applicants and reviewers are having trouble.
 
-### FAQ
+## FAQ
 
 `Q` What kind of commitment is moderating for Event Badging?  
 `A` We see a lot of variables affecting this time commitment, including our number of moderators and number of applicants. We expect, at the highest load, for the project to require about 20 minutes every couple of days for each moderator. As we get more moderators into the project, that commitment will shrink.
@@ -35,7 +35,7 @@ Moderators are responsible for ensuring that reviewers and applicants understand
 
 `Q` We are looking forward to answering more questions!
 
-### References
+## References
 
 * [https://haacked.com/archive/2019/06/03/suggested-changes/](https://haacked.com/archive/2019/06/03/suggested-changes/)
 

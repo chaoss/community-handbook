@@ -25,11 +25,11 @@ Below are the most important questions:
 We will also ask:
 
 * We want to know if you would like to include your name on our website as a CHAOSS D&I Badging Reviewer. If you agree with that, your name will show on the bottom of [D&I Badging Page](https://chaoss.community/diversity-and-inclusion-badging/).
-* We also require you as a reviewer to identify and act upon any conflicts of interest. Please see the [D&I Badging Conflict of Interest Policy]() for more information.
+* We also require you as a reviewer to identify and act upon any conflicts of interest. Please see the [D&I Badging Conflict of Interest Policy](https://handbook.chaoss.community/community-handbook/badging/reviewing/conflict-of-interest-policy) for more information.
 
 The D&I Badging team will be notified once you submit the form. They will contact you through email to set up a meeting to explain the reviewing process.
 
-After the meeting, your GitHub handle will be added to the list of [current reviewers](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md). There is a badging bot that assigns reviewing tasks - don't forget to open email notifications for D&I badging repository to avoid missing an assignment! 
+After the meeting, your GitHub handle will be added to the list of [current reviewers](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md). There is a [badging bot](https://handbook.chaoss.community/badging/the-badging-bot) that assigns reviewing tasks - don't forget to open email notifications for D&I badging repository to avoid missing an assignment! 
 
 
 

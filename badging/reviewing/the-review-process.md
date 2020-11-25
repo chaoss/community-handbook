@@ -1,7 +1,5 @@
 # The Review Process
 
-
-
 This page contains information about going through the review process, especially about how a reviewer could work with the Review Checklist and collect the information required for the Review Checklist criteria.
 
 ### **Purpose of Review Checklist**
