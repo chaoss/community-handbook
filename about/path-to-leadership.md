@@ -1,3 +1,7 @@
+---
+description: Path to CHAOSS Leadership
+---
+
 # Path to Leadership
 
 ## What does leadership mean to the CHAOSS community?
@@ -84,6 +88,6 @@ Checklist✅for becoming the **Community Manager**
 * [ ] An understanding of how contemporary open source projects function
 
 {% hint style="info" %}
-**NOTE:** The community manager is a paid position and is hired through a job-application process. Select community members are asked to serve on the search committee to review applications, interview candidates, and make a recommendation.
+**NOTE:** The community manager is a paid position and is hired through a job-application process. Selected community members are asked to serve on the search committee to review applications, interview candidates, and make a recommendation.
 {% endhint %}
 
