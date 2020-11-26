@@ -1,3 +1,7 @@
+---
+description: You will have fun knowing the CHAOSS History
+---
+
 # CHAOSS History
 
 {% hint style="info" %}
