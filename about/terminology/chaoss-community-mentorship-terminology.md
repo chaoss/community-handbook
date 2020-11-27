@@ -1,6 +1,8 @@
-# CHAOSS Community Mentorship Terminology
+---
+description: Mentorship terminology
+---
 
-![Illustartion taken from unDraw under the open license](../../.gitbook/assets/undraw_shared_workspace_hwky.png)
+# CHAOSS Community Mentorship Terminology
 
 ### Organization Administaror
 

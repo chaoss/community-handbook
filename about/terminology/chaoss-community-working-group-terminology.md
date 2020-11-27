@@ -1,3 +1,7 @@
+---
+description: Terminology across working groups
+---
+
 # CHAOSS Community Working Group Terminology
 
 ## **Working Groups around Metric**
