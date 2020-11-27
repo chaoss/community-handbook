@@ -1,3 +1,7 @@
+---
+description: Process of metric approval
+---
+
 # Metrics
 
 ### CHAOSS Metrics Committee

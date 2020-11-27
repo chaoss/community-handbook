@@ -1,3 +1,7 @@
+---
+description: Contains the details about working groups
+---
+
 # Working Groups
 
 ### What is the Working Group?
