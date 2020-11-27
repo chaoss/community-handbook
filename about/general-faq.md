@@ -38,15 +38,11 @@ CHAOSS project is a volunteer-driven project where there are folks from ****diff
 
 ### **Do you have internships?**
 
-\*\*\*\*
+We don't have specific internships instead we participate in various open source mentorship programs like GSoC, Outreachy, etc. 
 
 ### **How can I assess the health of my community?**
 
 You can assess the health of your community by submitting the details under "[**Submit Your Community Health Report Request**](https://chaoss.community/community-reports/)"
-
-### **What metric can help me to assess the health of my community?**
-
-
 
 ### **Where can I find the relevant metric I am looking for?**
 
@@ -57,8 +53,6 @@ All the metrics can be found under the **"**[**Metric Definition**](https://chao
 The Diversity and Inclusion Badging program use a peer-review system to encourage projects and events to obtain badges. It aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
 The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS D&I working group. ****[**You can read more about it here**](https://handbook.chaoss.community/community-handbook/badging/overview)\*\*\*\*
-
-### **Where can I find the community or project health-related data?**
 
 ### **Does CHAOSS provide any tools to measure the open source project or community health?**
 
@@ -77,4 +71,6 @@ We encourage transparency, openness, and healthiness so all the questions should
 Yes, CHAOSS records all the meetings and for that, we follow [**general guidelines for recording the meetings**](https://handbook.chaoss.community/community-handbook/community-initiatives/chaoss-meetings). Also, all the recorded meetings can be found on [**CHAOSS Youtube Channel**](https://www.youtube.com/channel/UCrG-a3hIc_hCEUWloG0gm9A)\*\*\*\*
 
 ### **Where can I find CHAOSS community discussion?**
+
+All the discussions can be found within the CHAOSS mailing list or CHAOSS GitHub
 
