@@ -1,3 +1,7 @@
+---
+description: It contains the details of how to use specific terms
+---
+
 # Terminology Usage
 
 For clear and consistent communication, it’s important to always use the correct terminology. Remember:
