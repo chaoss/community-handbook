@@ -1,3 +1,7 @@
+---
+description: Details about releasing the metrics
+---
+
 # CHAOSS Metric Releases
 
 The version number is `YYYY-MM` of the release date. Continuous Metric Contributions do not get a separate version number.
