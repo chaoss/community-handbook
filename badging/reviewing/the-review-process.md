@@ -45,15 +45,15 @@ Use the website provided in the application to everyone's advantage! Most of the
 #### Code of Conduct at Event \(CoC\)
 
 *  **Findability:** Observe the event website to see whether the CoC is easy to find. 
-*  **Clarity:** Read the CoC, make sure the CoC provides clear definition of proper conduct at the event and behaviors that should not be tolerated.
-*  **Reporting venue:** Ensure that the event has a venue for all event participants to report violations of CoC. The information of reporting venue should be public on the event website or other places.
+*  **Clarity:** Read the CoC, make sure the CoC provides a clear definition of proper conduct at the event and behaviors that should not be tolerated.
+*  **Reporting venue:** Ensure that the event has a venue for all event participants to report violations of CoC. The information about the reporting venue should be public on the event website or other places.
 *  **Support at Event:**  Read the CoC and ensure it contains information on possible methods to provide support to victims of inappropriate behavior.
 *  **Enforcement:** Ensure the event has a definite process to display the CoC and a clear request for them to accept it.
 
 #### Diversity Access tickets
 
 * **Availability:** Ensure that the event provides one or more Diversity Access Tickets. 
-* **Ticket allocation:** Allocating different kinds of tickets may always be a process that operates internally, try to find out the process based on the description provided by the applicant and ask for more information if you need.
+* **Ticket allocation:** Allocating different kinds of tickets may always be a process that operates internally, try to find out the process based on the description provided by the applicant and ask for more information if required.
 * **Findability:** The information on diversity access tickets is not necessarily posted on the event website, it can also be on a ticketing system or other places, but this should be at least public and findable.
 
 ####  Family Friendliness

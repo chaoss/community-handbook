@@ -28,10 +28,10 @@ Moderators are responsible for ensuring that reviewers and applicants understand
 ## FAQ
 
 `Q` What kind of commitment is moderating for Event Badging?  
-`A` We see a lot of variables affecting this time commitment, including our number of moderators and number of applicants. We expect, at the highest load, for the project to require about 20 minutes every couple of days for each moderator. As we get more moderators into the project, that commitment will shrink.
+`A` We see a lot of variables affecting this time commitment, including our number of moderators and the number of applicants. We expect, at the highest load, for the project to require about 20 minutes every couple of days for each moderator. As we get more moderators into the project, that commitment will shrink.
 
 `Q` What happens if a reviewer is not responding or providing a review?  
-`A` In this case, we use a week in real time as our metric. If the reviewer has been assigned for a week and has not provided their review or responded to requests, you can unassign them. At this point, you must also assign a new reviewer. You can use your judgement to request a reviewer that you haven't seen on any events recently, or someone that you know will be reliable.
+`A` In this case, we use a week in real-time as our metric. If the reviewer has been assigned for a week and has not provided their review or responded to requests, you can unassign them. At this point, you must also assign a new reviewer. You can use your judgement to request a reviewer that you haven't seen on any events recently, or someone that you know will be reliable.
 
 `Q` We are looking forward to answering more questions!
 

@@ -24,7 +24,7 @@ Sign up as a reviewer and you can get in touch with different events and project
 
 ### Contribute to the workflow
 
-For now, most of the workflows happen under the [Event D&I badging repository.](https://github.com/badging/event-diversity-and-inclusion) If you think there is unreasonableness about the process, or you have suggestions to improve the workflow, don't hesitate to open an i**ssue** to discuss your suggestion.  
+For now, most of the workflows happen under the [Event D&I badging repository.](https://github.com/badging/event-diversity-and-inclusion) If you think there is unreasonableness about the process, or you have suggestions to improve the workflow, don't hesitate to open an **issue** to discuss your suggestion.  
   
 For bug fixing and word spelling correction, we warmly welcome you to open a **Pull Request.**
 
@@ -34,8 +34,8 @@ The [Submission Form](https://chaoss.community/diversity-and-inclusion-badging/)
 
 To make improvements to our documentation on GitHub, you can:
 
-* open an issue on GitHub
-* open a pull request on GitHub
+* Open an issue on GitHub
+* Open a pull request on GitHub
 
 We suggest adding text with the pull request explaining why the change should be made.
 

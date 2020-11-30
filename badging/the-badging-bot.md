@@ -37,8 +37,8 @@ You can also interact with `@badging-bot`using a few commands.
 * All roles are allowed to use this command.
 
 ```text
-#show the current badge status
 /result
+#show the current badge status
 ```
 
 #### 2. /end \(Moderators\)
@@ -47,8 +47,8 @@ You can also interact with `@badging-bot`using a few commands.
 * Only moderators are allowed to use this command.
 
 ```text
-#obtain the final badge and close the issue
 /end
+#obtain the final badge and close the issue
 ```
 
 
