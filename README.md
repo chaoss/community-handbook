@@ -56,5 +56,7 @@ The CHAOSS Community Handbook is a central [repository](https://github.com/chaos
 
 {% page-ref page="mentorships/google-season-of-docs.md" %}
 
+{% page-ref page="mentorships/mentorship-roles-and-responsibilities.md" %}
+
 {% page-ref page="mentorships/outreachy.md" %}
 
