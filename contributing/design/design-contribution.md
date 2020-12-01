@@ -1,3 +1,7 @@
+---
+description: Contribution
+---
+
 # Design Contribution
 
 ## Things you need to follow

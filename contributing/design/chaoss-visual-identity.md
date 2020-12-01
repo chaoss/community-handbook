@@ -1,3 +1,7 @@
+---
+description: Understanding the CHAOSS Visual Identity
+---
+
 # CHAOSS Visual Identity
 
 ### What is CHAOSS Visual Identity?

@@ -1,3 +1,7 @@
+---
+description: Design of CHAOSS
+---
+
 # Design
 
 ![](../../.gitbook/assets/logo-large_1123x271.png)

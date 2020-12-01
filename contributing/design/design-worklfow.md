@@ -1,3 +1,7 @@
+---
+description: general process to follow for the design contribution
+---
+
 # Design Worklfow
 
 ### Our Process
