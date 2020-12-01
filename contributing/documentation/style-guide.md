@@ -1,3 +1,7 @@
+---
+description: General Style Guide to follow
+---
+
 # Style Guide
 
 In order to keep our documentation consistent across various spaces, we ask that you respect the following conventions and best practices when contributing documentation to the CHAOSS community.

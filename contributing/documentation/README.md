@@ -1,3 +1,7 @@
+---
+description: Contributing within the Documentation
+---
+
 # Documentation
 
 Unfortunately, good code won't speak for itself. Even the most elegantly designed and well-written codebase that solves the most pressing problem in the world won't just get adopted on its own. You, the open-source creator, need to speak for your code and breathe life into your creation. That's where technical writing and documentation come in. \(_Source credit:_ [_Kevin Xu's article on from opensource.com_](https://opensource.com/article/20/3/documentation)_**\)**_
