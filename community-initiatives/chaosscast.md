@@ -1,40 +1,12 @@
+---
+description: It is a CHAOSS Poadcast
+---
+
 # CHAOSScast
 
 > **This is CHAOSScast,** the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen.
 
-**Table of Content:**
-
-* [Key roles and people]()
-  * [Roles]()
-  * [Organizers]()
-  * [Panelists]()
-  * [Guest]()
-  * [Coordinator]()
-  * [Rebase.fm contact]()
-* [Important links]()
-* [Strategy]()
-  * [Name](https://github.com/chaoss/governance/blob/master/community-handbook/name-chaosscast)
-  * [Subtitle]()
-  * [Description]()
-  * [Goal]()
-  * [Audience]()
-  * [Scope]()
-  * [Style]()
-  * [Format]()
-  * [Sample interview questions]()
-* [Automation]()
-* [Procedures]()
-  * [Scheduling an episode]()
-  * [Recording an episode]()
-  * [Publishing an episode]()
-* [CHAOSScast sponsorship and revenue]()
-  * [Revenue background]()
-  * [How much revenue?]()
-  * [How will the revenue be used?]()
-  * [Revenue FAQ]()
-* [Acknowledgements]()
-
-## Key roles and people
+## 👥 Key roles and people
 
 This is a CHAOSS Community project and should never rely on one person only.
 
@@ -97,7 +69,7 @@ CHAOSS partners with the **Rebase.fm** \(formerly known as **CodeFund Podcast Ne
 * Rebase.fm Discord \#chaoss channel: Please ask the coordiantor for an invite
 * [Open Collective](https://opencollective.com/chaosscast) for revenue
 
-## Strategy
+## ✍ Strategy
 
 ### Name: CHAOSScast
 
@@ -153,7 +125,7 @@ Each recording is scheduled for 1.5h and a released episode targeting 30-40 minu
 * Who else sees these metrics and how are the metrics integrated in your workflows?
 * "what amazing thing did you do?", "what was the community like before it happened?" "When did you realize something needed to change?" "how did you go about getting the thing done?" "what was the end result?" “why dos what you did matter to the listener’s communities?” “what advice do you have to make doing the same thing easier?”
 
-## Automation
+## 🕙 Automation
 
 Documenting any automation configured to date.
 
@@ -163,7 +135,7 @@ Georg Link has an IFTT recipe to:
 * Then tweet it from @CHAOSSproj
   * Example tweet: [https://twitter.com/CHAOSSproj/status/1256137855606444032](https://twitter.com/CHAOSSproj/status/1256137855606444032)
 
-## Procedures
+## 📖 Procedures
 
 These procedures are for the organizer and coordinator of each episode:
 
@@ -249,7 +221,7 @@ These procedures are for the organizer and coordinator of each episode:
     * Advertise outside of CHAOSS
       * SustainOSS Forum \(?\)
 
-## CHAOSScast sponsorship and revenue
+## 💰 CHAOSScast sponsorship and revenue
 
 ### Revenue background
 
@@ -290,7 +262,7 @@ Money in this budget can be used for:
 
 * Rebase.fm will make the funds available to CHAOSS through an [Open Collective](https://opencollective.com/chaosscast). If the funds grow to a point of needing to transfer them to Community Bridge, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
 
-## Acknowledgements
+## 😎 Acknowledgments
 
 **Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the first organizer.
 

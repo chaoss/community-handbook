@@ -1,3 +1,7 @@
+---
+description: It is a CHAOSS conference
+---
+
 # CHAOSScon
 
 ## 👥 Form organizing committee
