@@ -46,6 +46,7 @@
 * [Google Summer of Code](mentorships/google-summer-of-code.md)
 * [Google Season of Docs](mentorships/google-season-of-docs.md)
 * [Outreachy](mentorships/outreachy.md)
+* [Mentorship Roles & Responsibilities](mentorships/mentorship-roles-and-responsibilities.md)
 
 ## D&I BADGING <a id="badging"></a>
 
