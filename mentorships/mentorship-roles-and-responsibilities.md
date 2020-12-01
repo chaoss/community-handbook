@@ -2,7 +2,7 @@
 description: Contains the roles and responsibilities for mentorship program
 ---
 
-# Mentorship Roles & Responsibilities
+# GSoC/GSoD Roles & Responsibilities
 
 ## Involving as a Student 👨🎓 
 

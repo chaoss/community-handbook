@@ -8,6 +8,8 @@ The CHAOSS Community Handbook is a central [repository](https://github.com/chaos
 
 ### ABOUT
 
+{% page-ref page="about/chaoss-history.md" %}
+
 {% page-ref page="about/values.md" %}
 
 {% page-ref page="about/roadmap.md" %}
@@ -22,19 +24,21 @@ The CHAOSS Community Handbook is a central [repository](https://github.com/chaos
 
 {% page-ref page="about/terminology-usage.md" %}
 
+{% page-ref page="about/general-faq.md" %}
+
 ### COMMUNITY
 
 {% page-ref page="community-initiatives/working-groups.md" %}
 
 {% page-ref page="community-initiatives/metrics/" %}
 
-{% page-ref page="community-initiatives/metrics/untitled-3.md" %}
-
 {% page-ref page="community-initiatives/untitled-4.md" %}
 
 {% page-ref page="community-initiatives/untitled-1.md" %}
 
 {% page-ref page="community-initiatives/chaosscast.md" %}
+
+{% page-ref page="community-initiatives/chaoss-meetings.md" %}
 
 ### CONTRIBUTING
 
