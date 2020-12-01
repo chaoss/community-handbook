@@ -1,5 +1,5 @@
 ---
-description: This page contains the details of the Handbook
+description: This page contains the content of the Handbook
 ---
 
 # CHAOSS Community Handbook - Table of Contents
