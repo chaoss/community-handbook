@@ -1,18 +1,22 @@
+---
+description: General contributing Workflow
+---
+
 # Contributing Worfkflow
 
-### Contribution Approach
+### 🤔 Contribution Approach
 
 We love pull requests from everyone! We follow the standard Git workflow of **`fork`** 👉 **`change`** 👉 **`pull request`** 👉 **`merge`** 👉 **`update fork`** 👉**`change`** ... \(**repeat forever**\). If you are new to open source, we recommend GitHub's excellent guide on "[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)". In addition, please feel free to reach out to any of the maintainers or other community members if you are struggling; we are here to help you learn!
 
 Before getting started, please make sure you've read the **README** of the respective project repository to get a primer on our project.
 
-### Opening an Issue
+### 💡 Opening an Issue
 
 If you're experiencing an issue with any project or have a question you'd like help answering, please feel free to open an issue in the respective repository of the project. To help us prevent duplicates, we kindly ask that you briefly search for your problem or question in our issues before opening a new one.
 
 Please note that if you open a bug report and your issue does not follow our template, we cannot help you until you have provided us all the relevant information in that format. Respectfully, we do not have the time to try and recreate an error given with minimal or no context, so by providing this information you are helping us help you! You will see this template when you open an issue; click on "Bug Report" and it will be populated with descriptions of what to put in each section. Replace the descriptions with your comments to the best of your ability, and please include screenshots and error logs if applicable.
 
-### Contributing to Source Code
+### 💻 Contributing to Source Code
 
 #### Forking
 
