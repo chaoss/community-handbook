@@ -1,6 +1,10 @@
+---
+description: How to contribute through development
+---
+
 # Development
 
-### Technical Requirements
+### ✏ Technical Requirements
 
 You'll need to have some basic programming experience with the technologies and tools we use.
 
@@ -22,7 +26,7 @@ You'll need to have some basic programming experience with the technologies and 
   * [Python's best practices](https://gist.github.com/sloria/7001839)
   * [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
-### Project Structure
+### 🏗 Project Structure
 
 The CHAOSS community's projects have been divided in the following ways:
 
