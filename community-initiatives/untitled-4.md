@@ -41,10 +41,10 @@ When the CHAOSS community receives a request for a report, the following steps w
 
 ### 🍹 Generating visualizations from Cauldron
 
-Detailed steps for generating visualizations from Cauldron (step 5 above), follow these steps:
+Detailed steps for generating visualizations from [Cauldron](https://cauldron.io/) (step 5 above), follow these steps:
 
-1. Receive an email from Vinod with information about (1) which repository was requested, (2) what time frame we are analyzing it for, and (3) what Google Drive folder to store visualizations in.
-2. Open a new project in Cauldron for the requested repository (information 1) and wait until the data collection is complete (10 minutes to several hours).
+1. Receive an email from Vinod about (information 1:) which repository was requested, (information 2:) what time frame we are analyzing it for, and (information: 3) what Google Drive folder to store visualizations in.
+2. Open a new project in [Cauldron](https://cauldron.io/) for the requested repository (information 1) and wait until the data collection is complete (10 minutes to several hours).
 3. Set the analysis time frame to the one indicated in Vinod's email (information 2).
 4. Make sure the browser is in full-screen size so that the visualizations have a consistent size when downloaded.
 5. Use the floppy disk symbol by the visualizations to download them. Navigate to visualizations:
