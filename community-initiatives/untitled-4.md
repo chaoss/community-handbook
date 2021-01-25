@@ -46,12 +46,12 @@ Below are detailed steps for generating visualizations from [Cauldron](https://c
 _About Cauldron:_ 
 Cauldron is a Metrics as a Service platform, built on our CHAOSS GrimoireLab project, and can be used without installing anything.
 
-1. Receive an email from Vinod about (information 1:) which repository was requested, (information 2:) what time frame we are analyzing it for, and (information: 3) what Google Drive folder to store visualizations in.
-2. Open a new project in [Cauldron](https://cauldron.io/) for the requested repository (information 1) and wait until the data collection is complete (10 minutes to several hours).
-3. Set the analysis time frame to the one indicated in Vinod's email (information 2).
+1. Receive an email from Vinod about (1) which repository was requested, (2) what time frame we are analyzing it for, and (3) what Google Drive folder to store visualizations in.
+2. Open a new project in [Cauldron](https://cauldron.io/) for the requested repository and wait until the data collection is complete (10 minutes to several hours).
+3. Set the analysis time frame to the one indicated in Vinod's email.
 4. Make sure the browser is in full-screen size so that the visualizations have a consistent size when downloaded.
 5. Use the floppy disk symbol by the visualizations to download them. Navigate to visualizations:
   1. Activity --> Commits --> # Number of commits by hour and weekday (local time of commit author)
   2. CHAOSS --> # Issues created/closed
-6. Upload the two visualizations to the Google Drive folder that Vinod created (information 3)
+6. Upload the two visualizations to the Google Drive folder that Vinod created.
 7. Reply to Vinod that the Cauldron visualizations are done
