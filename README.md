@@ -6,6 +6,8 @@ description: This page contains the content of the Handbook
 
 The CHAOSS Community Handbook is a central [repository](https://github.com/chaoss/gitbook-test) for how we run the project. As part of our value of being transparent, the handbook is open to the world and we welcome feedback. Please make [pull requests](https://github.com/chaoss/gitbook-test/pulls) to suggest improvements or add clarifications. Please use [issues](https://github.com/chaoss/gitbook-test/issues) to ask questions.
 
+The published version of the Community Handbook can be found [here](https://app.gitbook.com/@chaoss-project/s/community-handbook/). 
+
 ### ABOUT
 
 {% page-ref page="about/chaoss-history.md" %}
