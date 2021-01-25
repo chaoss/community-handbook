@@ -41,7 +41,10 @@ When the CHAOSS community receives a request for a report, the following steps w
 
 ### 🍹 Generating visualizations from Cauldron
 
-Detailed steps for generating visualizations from [Cauldron](https://cauldron.io/) (step 5 above), follow these steps:
+Below are detailed steps for generating visualizations from [Cauldron](https://cauldron.io/) (step 5 above).
+
+_About Cauldron:_ 
+Cauldron is a Metrics as a Service platform, built on our CHAOSS GrimoireLab project, and can be used without installing anything.
 
 1. Receive an email from Vinod about (information 1:) which repository was requested, (information 2:) what time frame we are analyzing it for, and (information: 3) what Google Drive folder to store visualizations in.
 2. Open a new project in [Cauldron](https://cauldron.io/) for the requested repository (information 1) and wait until the data collection is complete (10 minutes to several hours).
