@@ -24,7 +24,7 @@
 * [Working Groups](community-initiatives/working-groups.md)
 * [Metrics](community-initiatives/metrics/README.md)
   * [CHAOSS Metric Releases](community-initiatives/metrics/chaoss-metric-release.md)
-* [Community Report](community-initiatives/untitled-4.md)
+* [Community Report](community-initiatives/community-report.md)
 * [CHAOSScon](community-initiatives/untitled-1.md)
 * [CHAOSScast](community-initiatives/chaosscast.md)
 * [CHAOSS Meetings](community-initiatives/chaoss-meetings.md)

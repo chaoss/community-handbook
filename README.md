@@ -32,7 +32,7 @@ The CHAOSS Community Handbook is a central [repository](https://github.com/chaos
 
 {% page-ref page="community-initiatives/metrics/" %}
 
-{% page-ref page="community-initiatives/untitled-4.md" %}
+{% page-ref page="community-initiatives/community-report.md" %}
 
 {% page-ref page="community-initiatives/untitled-1.md" %}
 
