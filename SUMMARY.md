@@ -14,7 +14,7 @@
 * [Terminology](about/terminology/README.md)
   * [CHAOSS Specific Terms](about/terminology/chaoss-specific-terms.md)
   * [CHAOSS Committees](about/terminology/chaoss-committees.md)
-  * [CHAOSS Community Working Group Terminology](about/terminology/chaoss-community-working-group-terminology.md)
+  * [CHAOSS Community Working Group Terminology](about/terminology/wg-terminology.md)
   * [CHAOSS Community Mentorship Terminology](about/terminology/chaoss-community-mentorship-terminology.md)
 * [Terminology Usage](about/terminology-usage.md)
 * [General FAQ](about/general-faq.md)
