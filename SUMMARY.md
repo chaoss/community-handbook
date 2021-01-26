@@ -1,7 +1,7 @@
 # Table of contents
 
 * [CHAOSS Community Handbook - Table of Contents](README.md)
-* [Handbook Usage](untitled-1.md)
+* [Handbook Usage](handbook-usage.md)
 
 ## ABOUT
 
