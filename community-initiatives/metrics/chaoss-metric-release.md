@@ -6,7 +6,7 @@ description: Details about releasing the metrics
 
 The version number is `YYYY-MM` of the release date. Continuous Metric Contributions do not get a separate version number.
 
-## Continuous Metric Contribution
+## Continuous Contribution Process
 
 The goal is to have short cycles of feedback and to get metrics out sooner.
 
