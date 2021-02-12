@@ -19,16 +19,16 @@ Each role is occupied by different people each episode.
 The **organizer** is responsible for the invitation, scheduling, preparation, coordination, moderation, and monitoring the podcast email. Each episode has exactly one \(1\) organizer. An organizer is also a panelist.
 
 1. Georg Link
-2. Matt Broberg
-3. Samantha Venia Logan
-4. Dylan Marcy
-5. Sean Goggins
-6. ... \(you?\)
+2. Samantha Venia Logan
+3. Dylan Marcy
+4. Sean Goggins
+5. ... \(you?\)
 
 ### Panelists
 
 A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. Organizers are also panlists.
 
+* Matt Broberg
 * Matt Germonprez
 * Dawn Foster
 * Kevin Lumbard
@@ -39,6 +39,7 @@ A **panelist** is responsible for research, asking questions, and adding to the 
 * Andrea Gallo
 * Kate Stewart
 * Armstrong Foundjem
+* Sophia Vargas
 * ... you?
 
 ### Guest
@@ -53,21 +54,12 @@ A **coordinator** assists with the finer details of confirming podcast dates/tim
 
 * [Elizabeth Barron](https://github.com/elizabethn)
 
-### Rebase.fm contact
-
-CHAOSS partners with the **Rebase.fm** \(formerly known as **CodeFund Podcast Network** \(CPN\)\) for the editing, monetization, and publishing of the podcast.
-
-* Justin Dorfman
-* Eric Berry
-
 ## Important links
 
-* [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) \(maintained by CPN\) \[NOTE: not sure if this will remain under Rebase.fm\]
+* [Google Drive](https://drive.google.com/drive/folders/1gsQF8_R8cdkQBQn6iWa5oFbd52wIdRy4) Maintained by Paul Bahr, our sound editor
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
 * [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates and epsiode release schedule
 * Email address for podcast, forwarded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
-* Rebase.fm Discord \#chaoss channel: Please ask the coordiantor for an invite
-* [Open Collective](https://opencollective.com/chaosscast) for revenue
 
 ## ✍ Strategy
 
@@ -113,7 +105,8 @@ Each recording is scheduled for 1.5h and a released episode targeting 30-40 minu
 * Intro of panelists
 * Intro of guest\(s\)
 * Interview with guest
-* Picks/shout outs
+* Value adds or picks
+* Thank You's and outro with music
 
 ### Sample interview questions
 
@@ -124,6 +117,7 @@ Each recording is scheduled for 1.5h and a released episode targeting 30-40 minu
 * What tools do you use for the metrics?
 * Who else sees these metrics and how are the metrics integrated in your workflows?
 * "what amazing thing did you do?", "what was the community like before it happened?" "When did you realize something needed to change?" "how did you go about getting the thing done?" "what was the end result?" “why dos what you did matter to the listener’s communities?” “what advice do you have to make doing the same thing easier?”
+* What are your hopes for CHAOSS in the future? 
 
 ## 🕙 Automation
 
@@ -223,44 +217,9 @@ These procedures are for the organizer and coordinator of each episode:
 
 ## 💰 CHAOSScast sponsorship and revenue
 
-### Revenue background
-
-CHAOSScast is part of the Rebase.fm which has sponsorship deals to fund the work on the podcast. Rebase.fm shares its revenue with CHAOSScast. Shared revenue will be deposited to [Open Collective](https://opencollective.com/chaosscast).
-
-### How much revenue?
-
-$25 per episode
-
-### How will the revenue be used?
-
-This podcast is not about the funding, but it does come with some opportunity to invest further into the podcast and the CHAOSS community as a whole.
-
-#### Budget item: reinvest in podcast
-
-Money in this budget can be used for:
-
-* Sending “thank you” notes and swag to guests of the podcast
-* Funding of regular hosts requests for equipment, e.g., microphone or headphone
-
-### Revenue FAQ
-
-1. What is the approval process for money distribution from the Reinvest in Podcast budget?
-
-* The CHAOSS governance team has delegated responsibility to manage these funds in good faith to the podcast coordinator and organizers. To request funding, send a request to: [podcast@chaoss.community](mailto:podcast@chaoss.community). The coordinators will follow the following guidelines:
-  1. The request is denied if at least one organizer denies it.
-  2. The request is approved when at least two coordinators or organizers approve.
-
-1. What kind of “thank you” notes will go out to podcast guests?
-
-* The thank you note contains a postcard, pokerchip, and 3 stickers, all branded with the CHAOSScast logo.
-
-1. Who is eligible to make a request for equipment?
-
-* Recurring hosts in need of improving their audio configuration can make a reasonable request to the team. A guideline of a minimum of three \(3\) podcasts before making a request is recommended, but all requests will be considered based on need and availability of funds.
-
-1. Where will these funds be stored?
-
-* Rebase.fm will make the funds available to CHAOSS through an [Open Collective](https://opencollective.com/chaosscast). If the funds grow to a point of needing to transfer them to Community Bridge, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
+SustainOSS sponsors CHAOSScast and covers the cost of hosting, editing, and show notes.
+CHAOSScast currently doesn't generate revenue.
+An idea for the future is to include CHAOSScast as an option along other sponsorship opportunities like CHAOSScon.
 
 ## 😎 Acknowledgments
 
@@ -270,5 +229,6 @@ Money in this budget can be used for:
 
 **Justin Dorfman** worked with Georg and Matt B to onboard CHAOSScast to the CodeFund Podcast Network and define the procedures required for scheduling, recording, and publishing episodes.
 
-**Matt Germonprez** and **Dawn Foster** were the original panelists. \([Listen to Epsiode 1](https://podcast.chaoss.community/1)\)
+**Matt Germonprez** and **Dawn Foster** were the first panelists. \([Listen to Epsiode 1](https://podcast.chaoss.community/1)\)
 
+**Paul Bahr** from Peachtree Sound is the editor who makes us all sound awesome.
