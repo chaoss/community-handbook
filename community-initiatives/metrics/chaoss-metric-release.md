@@ -55,6 +55,7 @@ Timeline:
 
 * Determine release version number (`<year>-<month>`) because it will be used for several steps
 * Extend list of contributors to include those who contributed to the new and previous releases
+* Update list of governing board members at time of release
 * Working Groups respond to all comments in the issues and close them
 * Working Groups merge or close all pull requests related to the release
 * Working Groups remove the request for review from the top of all metrics
