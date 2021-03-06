@@ -43,9 +43,9 @@ Timeline:
 * 1 week before release
   * Announce on mailing list that review period is closed
   * Prepare the final release \(see below\)
+    * Update /metrics page
+    * Update release notes
     * Prepare the PDF release
-    * Prepare release notes
-    * Replace /metrics page with new release
 * Day of release
   * All the work was done before
   * Announce on mailinglist and Twitter and all other channels
