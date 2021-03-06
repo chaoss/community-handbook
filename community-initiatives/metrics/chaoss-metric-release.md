@@ -53,18 +53,18 @@ Timeline:
 
 ### Prepare the final release
 
-* Determine release version number because it will be used for several steps
+* Determine release version number (`<year>-<month>`) because it will be used for several steps
 * Extend list of contributors to include those who contributed to the new and previous releases
 * Working Groups respond to all comments in the issues and close them
 * Working Groups merge or close all pull requests related to the release
 * Working Groups remove the request for review from the top of all metrics
 * Release Engineer creates a release tag in all working groups to freeze metrics for release
-  * Tag name: release
-  * Description: Release notes for that working group
-* Release Engineer updates metric pages to pull from release tag
+  * Tag name: `release-<year>-<month>`
+  * Description: Release notes for that working group, include full list of metrics released
+* ~~Release Engineer updates metric pages to pull from release tag~~ (always pull from master, snapshot exists in repo as a tagged commit and PDF)
 * Release Engineer cleans up `/metrics` by removing everything not needed in final release
 * Release Engineer cleans up the release notes page
-* Release Engineer creates a PDF of the release
+* Release Engineer creates a PDF of the release (see section below)
 * Release Engineer links the PDF on the `/metrics` and release notes page
 
 ### Prepare the PDF release
@@ -73,7 +73,7 @@ Timeline:
   * Make sure to not print menu, footer, "to-top" or any other elements that we don't want in the PDF
   * Here is a [Tampermonkey](http://www.tampermonkey.net/) user script that does most of it: [CHAOSS Metric print clean \(Tampermonkey\).user.js](https://drive.google.com/file/d/1y1uh5aeVbzR4CDGbQQJTdSb2Cnywk3OI/view?usp=sharing)
 * The Metrics are saved as PDFs from the browser \(Chrome, print\).
-  * Name the files in order `#) Metric Name.pdf` \(the user script will help with naming the pages like this\)
+  * Name the files in order `#) Metric Name.pdf` \(the user script will help with naming the pages like this, need to add the number manually after saving\)
 * The `CHAOSS Metrics by Working Groups and Focus Areas` pages are the /metrics page saved as PDF
   * Remove the list of contributors and copyright notice from the bottom, they will be in the front-matter
   * Name the file `CHAOSS Metrics by Working Groups and Focus Areas.pdf`
