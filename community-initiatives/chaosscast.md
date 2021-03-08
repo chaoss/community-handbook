@@ -1,5 +1,5 @@
 ---
-description: It is a CHAOSS Poadcast
+description: The CHAOSS Community Podcast
 ---
 
 # CHAOSScast
