@@ -1,5 +1,5 @@
 ---
-description: Details about releasing the metrics
+description: Step-by-step instructions for releasing CHAOSS Metrics
 ---
 
 # CHAOSS Metric Releases
