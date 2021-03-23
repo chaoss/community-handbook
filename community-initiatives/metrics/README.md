@@ -38,10 +38,10 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 
 ### 🧐 Some Metric Useful Resources
 
-* \*\*\*\*[**Metrics Definitions**](https://chaoss.community/metrics/)\*\*\*\*
-* \*\*\*\*[**Metric Release History**](https://chaoss.community/release-history/)\*\*\*\*
-* \*\*\*\*[**Metric Repository**](https://github.com/chaoss/metrics)\*\*\*\*
-* \*\*\*\*[**Metric Template**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)\*\*\*\*
-* [**Metrics Tracking Sheet**](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=0)\*\*\*\*
-* [**Continuous Metric Contribution and Regular Release**](https://github.com/chaoss/governance/blob/master/community-handbook/metrics-release.md)\*\*\*\*
+* [**Metrics Definitions**](https://chaoss.community/metrics/)
+* [**Metric Release History**](https://chaoss.community/release-history/)
+* [**Metric Repository**](https://github.com/chaoss/metrics)
+* [**Metric Template**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
+* [**Metrics Tracking Sheet**](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=0)
+* [**Continuous Metric Contribution and Regular Release**](https://github.com/chaoss/governance/blob/master/community-handbook/metrics-release.md)
 
