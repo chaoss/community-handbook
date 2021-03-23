@@ -22,6 +22,20 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 * A markdown version of the metric is added to the working group repository.
 * The metric is ready for the [**Continuous Metric Contribution and Regular Release**](https://handbook.chaoss.community/community-handbook/community-initiatives/untitled-3)\*\*\*\*
 
+### When should a previously released metric be returned to community review?
+
+* Whenever there is a language or terminology change that would affect other metric references. 
+* Changing the name of a metric (in any way)
+* Any changes that go beyond grammar or spelling fixes in the sections: 
+  - Question
+  - Definition
+  - Objectives
+  - Implementation
+* Does not require review:
+  - Grammar or spelling fixes (not including metric name)
+  - Updates to sections References and Contributors
+
+
 ### 🧐 Some Metric Useful Resources
 
 * \*\*\*\*[**Metrics Definitions**](https://chaoss.community/metrics/)\*\*\*\*
