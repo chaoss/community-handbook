@@ -32,11 +32,11 @@
 ## CONTRIBUTING
 
 * [Development](contributing/development/README.md)
-  * [Contributing Worfkflow](contributing/development/contributing-worfkflow.md)
+  * [Contributing Workflow](contributing/development/contributing-worfkflow.md)
 * [Documentation](contributing/documentation/README.md)
   * [Style Guide](contributing/documentation/style-guide.md)
 * [Design](contributing/design/README.md)
-  * [Design Worklfow](contributing/design/design-worklfow.md)
+  * [Design Workflow](contributing/design/design-worklfow.md)
   * [Design Contribution](contributing/design/design-contribution.md)
   * [CHAOSS Visual Identity](contributing/design/chaoss-visual-identity.md)
 * [Outreach](contributing/outreach.md)

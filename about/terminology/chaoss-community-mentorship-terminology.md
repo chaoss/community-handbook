@@ -4,7 +4,7 @@ description: Mentorship terminology
 
 # CHAOSS Community Mentorship Terminology
 
-### Organization Administaror
+### Organization Administrator
 
 The members of the CHAOSS community who manage CHAOSS's participation in various programs like [**Google Summer of Code**](https://summerofcode.withgoogle.com/), [**Google Season of Docs**](https://developers.google.com/season-of-docs), and [**Outreachy**](https://www.outreachy.org/).
 

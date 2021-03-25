@@ -85,7 +85,7 @@ _How are Diversity Access Tickets used to support diversity and inclusion for an
 
 _How does enabling families to attend together support diversity and inclusion of the event?_
 
-* **Availability:** Servies or facilities can be provided for participants who bring families to the event, especially to those who have children to take care of. For examples, you can:
+* **Availability:** Services or facilities can be provided for participants who bring families to the event, especially to those who have children to take care of. For examples, you can:
 
   * Provide a mother’s room,
   * Offer child care during the event,

@@ -2,7 +2,7 @@
 description: General contributing Workflow
 ---
 
-# Contributing Worfkflow
+# Contributing Workflow
 
 ### 🤔 Contribution Approach
 
