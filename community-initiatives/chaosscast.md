@@ -26,7 +26,7 @@ The **organizer** is responsible for the invitation, scheduling, preparation, co
 
 ### Panelists
 
-A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. Organizers are also panlists.
+A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. Organizers are also panelists.
 
 * Matt Broberg
 * Matt Germonprez
@@ -140,7 +140,7 @@ These procedures are for the organizer and coordinator of each episode:
 * **Step 1:** Determine a guest \(Anyone\)
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
 * **Step 2:** Coordinate Episode \(Coordinator\)
-  * **Action:** Send invitiation email \(content TBD\) to guest to find a few potential suitable dates and times \(60-90 minutes.\)
+  * **Action:** Send invitation email \(content TBD\) to guest to find a few potential suitable dates and times \(60-90 minutes.\)
   * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
   * **Action:** Prepare the planning document \(copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.\)
   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no \([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)\)
@@ -191,7 +191,7 @@ These procedures are for the organizer and coordinator of each episode:
     * Permalink: \# \(only the number of episode\)
     * Visibility: Public
     * Publish on: a Friday at 3 AM US Central Time
-    * Title: Title from the Episode Plannind Document
+    * Title: Title from the Episode Planning Document
     * Title Format: Episode 123: My Great Title \(default\)
     * Content: Clean \(unless we used swear words\)
     * Summary: First paragraph from the Show Notes are a good starting point
@@ -199,7 +199,7 @@ These procedures are for the organizer and coordinator of each episode:
       * Hint: convert show notes to Google Doc and export as Markdown
     * Keywords: \(use sparingly to avoid keyword cannibilization\)
     * Tags: \(empty\) -- we can use tags later for having sub-podcasts
-    * Hosts and Guests: activate everyone who was on the show. Regular panlists are all hosts, even when they are guest on an episode.
+    * Hosts and Guests: activate everyone who was on the show. Regular panelists are all hosts, even when they are guest on an episode.
     * Social Media Destinations: \(ignore\)
     * Apple Podcasts Settings: \(ignore\)
     * MP3 File: upload [MP3 file provided by CPN through Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)

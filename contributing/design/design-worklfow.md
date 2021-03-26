@@ -2,7 +2,7 @@
 description: general process to follow for the design contribution
 ---
 
-# Design Worklfow
+# Design Workflow
 
 ### Our Process
 
