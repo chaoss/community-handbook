@@ -4,7 +4,7 @@ description: general process to follow for the design contribution
 
 # Design Workflow
 
-### Our Process
+## Our Process
 
 We follow a 4-query procedure to solve the design issues. Each question is a step toward the completion of the product.
 
@@ -13,11 +13,11 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 * **How do we get what we want?** We need solid ideation in order to achieve any goal - Does the community agree to follow the new goal? Do we have any plans or processes to achieve the new design goal? 
 * **What will happen when we do?** We need to understand the future impact for any specific design goal - Is the problem solved? Is this what you were looking forward to having? Will it create a better impact on the CHAOSS community? 
 
-### Ways of Achieving
+## Ways of Achieving
 
 ![Design created by Jaskirat SIngh ](../../.gitbook/assets/ch.png)
 
-\*\*\*\*💡 **Plan** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions. 
+\*\*\*\*💡 **Plan** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions.
 
 \*\*\*\*🧐 **Research** - Make generative research together with the CHAOSS community members the requirements and assets that are needed. Check what impedes their productivity.
 

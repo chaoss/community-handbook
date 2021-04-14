@@ -21,7 +21,8 @@
 
 ## COMMUNITY <a id="community-initiatives"></a>
 
-* [Working Groups](community-initiatives/working-groups.md)
+* [Working Groups](community-initiatives/working-groups/README.md)
+  * [WG Repository Structure](community-initiatives/working-groups/wg-repository-structure.md)
 * [Metrics](community-initiatives/metrics/README.md)
   * [CHAOSS Metric Releases](community-initiatives/metrics/chaoss-metric-release.md)
 * [Community Report](community-initiatives/community-report.md)

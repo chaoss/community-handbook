@@ -27,7 +27,7 @@ The D&I badging application is submitted through a web form to provide informati
 
 ## Metric-related Information
 
-This section requires you to provide [**Diversity & Inclusion metrics**](https://github.com/chaoss/wg-diversity-inclusion/) related information of your event. 
+This section requires you to provide [**Diversity & Inclusion metrics**](https://github.com/chaoss/wg-diversity-inclusion/) related information of your event.
 
 The In-Person Event D&I metrics are:
 
@@ -39,11 +39,11 @@ The In-Person Event D&I metrics are:
 
 If your event commits to one of the following metrics, please tick the checkbox, then fill the subsequent boxes under each question. We also provide **criteria** under each metric in the form for you as references of what the reviewer will be considering when reviewing the submission.
 
-If your event meets some of the criteria, please provide related details and proofs. If not, those are the perspectives where your event can improve. 😉 
+If your event meets some of the criteria, please provide related details and proofs. If not, those are the perspectives where your event can improve. 😉
 
 ### Speaker Demographics
 
-_How well does the speaker lineup for the event represent a diverse set of_ [_demographics_](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)_?_ ****
+_How well does the speaker lineup for the event represent a diverse set of_ [_demographics_](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)_?_ _\*\*_
 
 * **Measuring Demographics:** Does your event measure speaker demographics? 
 * **Displaying demographics:** Does the speaker demographics publicly displayed on your event website?
@@ -94,6 +94,4 @@ _How does enabling families to attend together support diversity and inclusion o
   It's also wonderful if your event has other ideas that are suitable and effective to promote family friendliness of the event.
 
 * **Findability:** Is the information about the family-friendly services easily found on your website?
-
-
 

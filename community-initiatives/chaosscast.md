@@ -217,9 +217,7 @@ These procedures are for the organizer and coordinator of each episode:
 
 ## 💰 CHAOSScast sponsorship and revenue
 
-SustainOSS sponsors CHAOSScast and covers the cost of hosting, editing, and show notes.
-CHAOSScast currently doesn't generate revenue.
-An idea for the future is to include CHAOSScast as an option along other sponsorship opportunities like CHAOSScon.
+SustainOSS sponsors CHAOSScast and covers the cost of hosting, editing, and show notes. CHAOSScast currently doesn't generate revenue. An idea for the future is to include CHAOSScast as an option along other sponsorship opportunities like CHAOSScon.
 
 ## 😎 Acknowledgments
 
@@ -232,3 +230,4 @@ An idea for the future is to include CHAOSScast as an option along other sponsor
 **Matt Germonprez** and **Dawn Foster** were the first panelists. \([Listen to Epsiode 1](https://podcast.chaoss.community/1)\)
 
 **Paul Bahr** from Peachtree Sound is the editor who makes us all sound awesome.
+

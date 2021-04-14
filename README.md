@@ -6,9 +6,9 @@ description: This page contains the content of the Handbook
 
 The CHAOSS Community Handbook is a central [repository](https://github.com/chaoss/gitbook-test) for how we run the project. As part of our value of being transparent, the handbook is open to the world and we welcome feedback. Please make [pull requests](https://github.com/chaoss/gitbook-test/pulls) to suggest improvements or add clarifications. Please use [issues](https://github.com/chaoss/gitbook-test/issues) to ask questions.
 
-The published version of the Community Handbook can be found at [https://handbook.chaoss.community/](https://handbook.chaoss.community/). 
+The published version of the Community Handbook can be found at [https://handbook.chaoss.community/](https://handbook.chaoss.community/).
 
-### ABOUT
+## ABOUT
 
 {% page-ref page="about/chaoss-history.md" %}
 
@@ -28,9 +28,9 @@ The published version of the Community Handbook can be found at [https://handboo
 
 {% page-ref page="about/general-faq.md" %}
 
-### COMMUNITY
+## COMMUNITY
 
-{% page-ref page="community-initiatives/working-groups.md" %}
+{% page-ref page="community-initiatives/working-groups/" %}
 
 {% page-ref page="community-initiatives/metrics/" %}
 
@@ -42,7 +42,7 @@ The published version of the Community Handbook can be found at [https://handboo
 
 {% page-ref page="community-initiatives/chaoss-meetings.md" %}
 
-### CONTRIBUTING
+## CONTRIBUTING
 
 {% page-ref page="contributing/development/" %}
 
@@ -52,7 +52,7 @@ The published version of the Community Handbook can be found at [https://handboo
 
 {% page-ref page="contributing/outreach.md" %}
 
-### MENTORSHIPS
+## MENTORSHIPS
 
 {% page-ref page="mentorships/google-summer-of-code.md" %}
 
@@ -61,7 +61,4 @@ The published version of the Community Handbook can be found at [https://handboo
 {% page-ref page="mentorships/mentorship-roles-and-responsibilities.md" %}
 
 {% page-ref page="mentorships/outreachy.md" %}
-
-
-
 

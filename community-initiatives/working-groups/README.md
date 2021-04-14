@@ -71,7 +71,7 @@ Most of the work within the working group is done in the following ways:
 * We use general google docs for collaborating and discussing on a specific metrics
 * We use `markdown files` in the working group for a more permanent place for metric
 * We continue the discussion in the pull request until we decide to merge it
-* We have a review period for all new and changed metrics \([**see release process**](../about/values.md)\)
+* We have a review period for all new and changed metrics \([**see release process**](../../about/values.md)\)
 * Working groups work through calls and asynchronously through documents to move towards the decision
 
 ### What criteria do the Working groups follow for refining or accepting any metric under the relevant group?

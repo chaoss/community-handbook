@@ -53,7 +53,7 @@ Timeline:
 
 ### Prepare the final release
 
-* Determine release version number (`<year>-<month>`) because it will be used for several steps
+* Determine release version number \(`<year>-<month>`\) because it will be used for several steps
 * Extend list of contributors to include those who contributed to the new and previous releases
 * Update list of governing board members at time of release
 * Working Groups respond to all comments in the issues and close them
@@ -62,10 +62,10 @@ Timeline:
 * Release Engineer creates a release tag in all working groups to freeze metrics for release
   * Tag name: `release-<year>-<month>`
   * Description: Release notes for that working group, include full list of metrics released
-* ~~Release Engineer updates metric pages to pull from release tag~~ (always pull from master, snapshot exists in repo as a tagged commit and PDF)
+* ~~Release Engineer updates metric pages to pull from release tag~~ \(always pull from master, snapshot exists in repo as a tagged commit and PDF\)
 * Release Engineer cleans up `/metrics` by removing everything not needed in final release
 * Release Engineer cleans up the release notes page
-* Release Engineer creates a PDF of the release (see section below)
+* Release Engineer creates a PDF of the release \(see section below\)
 * Release Engineer links the PDF on the `/metrics` and release notes page
 
 ### Prepare the PDF release
@@ -108,19 +108,21 @@ After creating the merged document, add the front-matter
   * Table of contents: `Don't generate`
 
 ## Revising Existing Metrics:
+
 1. As our process for developing metrics evolves, we will implement a process to go back to old metrics and review every two years. Specifically, after 4 release cycles, we should review metrics and see whether they are still aligned with 
-   - Our current metric structure, 
-   - Our current metric style, and 
-   - The original intention of the metric, and if so, whether the metric's language and/or intention requires updating. 
+   * Our current metric structure, 
+   * Our current metric style, and 
+   * The original intention of the metric, and if so, whether the metric's language and/or intention requires updating. 
 2. What Types of Changes are suitable for continuous release?
- - Whenever there is a language or terminology change that would affect other metric references. 
- - Changing the name of a metric (in any way)
- - Any changes that go beyond grammar or spelling fixes in the sections: 
-   - Question
-   - Definition
-   - Objectives
-   - Implementation
+   * Whenever there is a language or terminology change that would affect other metric references. 
+   * Changing the name of a metric \(in any way\)
+   * Any changes that go beyond grammar or spelling fixes in the sections: 
+   * Question
+   * Definition
+   * Objectives
+   * Implementation
 3. Types of metric changes that do not require review:
- - Grammar or spelling fixes (not including metric name)
- - Updates to sections References and Contributors
- - Ultimately, we need a gardener who ensures consistency and flags metrics that need to be “updated”.
+   * Grammar or spelling fixes \(not including metric name\)
+   * Updates to sections References and Contributors
+   * Ultimately, we need a gardener who ensures consistency and flags metrics that need to be “updated”.
+

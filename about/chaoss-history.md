@@ -8,7 +8,7 @@ description: You will have fun knowing the CHAOSS History
 **NOTE**: Click on the below image to see the zoomed version of the CHAOSS History Timeline. \([SVG](https://github.com/chaoss/community-handbook/blob/master/about/CHAOSS_History_Timeline.svg)\)
 {% endhint %}
 
-![](../.gitbook/assets/frame-2-1-.jpg)
+![](../.gitbook/assets/frame-2-1-%20%281%29.jpg)
 
 ### Evolution of CHAOSS at Open Source Sumit North America
 
