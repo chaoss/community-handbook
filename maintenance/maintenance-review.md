@@ -12,7 +12,7 @@ description: Maintaining, Reviewing and Updating Released Metrics
    - Definition
    - Objectives
    - Implementation
-3. Types of metric changes that do not require review?
+3. Types of metric changes that do not require review:
  - Grammar or spelling fixes (not including metric name)
  - Updates to sections References and Contributors
  - After 4 release cycles, we should review metrics and see whether they are still aligned with our current way we write metrics. 
