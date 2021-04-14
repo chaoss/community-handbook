@@ -16,5 +16,4 @@ description: Maintaining, Reviewing and Updating Released Metrics
  - Grammar or spelling fixes (not including metric name)
  - Updates to sections References and Contributors
  - After 4 release cycles, we should review metrics and see whether they are still aligned with our current way we write metrics. 
- - We need a gardener who ensures consistency and flags metrics that need to be “updated”.
-4. https://docs.google.com/document/d/1chPzgJa49sO_f3wVqp_NLJupSVyKHSVyuFuwzl4m4KI/edit
+ - Ultimately, we need a gardener who ensures consistency and flags metrics that need to be “updated”.
