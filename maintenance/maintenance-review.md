@@ -19,4 +19,3 @@ description: Maintaining, Reviewing and Updating Released Metrics
  - Grammar or spelling fixes (not including metric name)
  - Updates to sections References and Contributors
  - Ultimately, we need a gardener who ensures consistency and flags metrics that need to be “updated”.
-4.  
