@@ -62,3 +62,9 @@ The published version of the Community Handbook can be found at [https://handboo
 
 {% page-ref page="mentorships/outreachy.md" %}
 
+### MAINTENANCE
+
+{% page-ref page="maintenance/maintenance-review.md" %}
+
+
+
