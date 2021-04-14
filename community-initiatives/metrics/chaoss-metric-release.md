@@ -107,10 +107,6 @@ After creating the merged document, add the front-matter
   * Bookmarks handling: `Retain bookmarks`
   * Table of contents: `Don't generate`
 
----
-description: Maintaining, Reviewing and Updating Released Metrics
----
-
 ## Revising Existing Metrics:
 1. As our process for developing metrics evolves, we will implement a process to go back to old metrics and review every two years. Specifically, after 4 release cycles, we should review metrics and see whether they are still aligned with 
    - Our current metric structure, 
