@@ -7,7 +7,7 @@ description: Maintaining, Reviewing and Updating Released Metrics
 2. What Types of Changes are suitable for continuous release?
  - Whenever there is a language or terminology change that would affect other metric references. 
  - Changing the name of a metric (in any way)
-- Any changes that go beyond grammar or spelling fixes in the sections: 
+ - Any changes that go beyond grammar or spelling fixes in the sections: 
    - Question
    - Definition
    - Objectives
