@@ -8,10 +8,10 @@ description: Maintaining, Reviewing and Updating Released Metrics
  - Whenever there is a language or terminology change that would affect other metric references. 
  - Changing the name of a metric (in any way)
 - Any changes that go beyond grammar or spelling fixes in the sections: 
-	- Question
-	- Definition
-	- Objectives
-	- Implementation
+   - Question
+   - Definition
+   - Objectives
+   - Implementation
 3. Types of metric changes that do not require review?
  - Grammar or spelling fixes (not including metric name)
  - Updates to sections References and Contributors
