@@ -41,7 +41,7 @@ Below mentioned is the standard naming covention followed by all Working Group r
 * Use underscore to separate different names (e.g., between metric-name and image-name)
 * Use lower case for all file and folder names, except README, LICENSE, CONTRIBUTING, FUNDING which are standard across open source always capitalized
 * Images are always in a sub-directory “images” under the markdown file that references the image
-* Move any metric that was not released or is under community review into an issue with a google doc -- the repo should have only released and under-review metrics
+* The WG repos should have only released and under-review metrics
 * In cases where the metric name is also a descriptor, please use this convention:
 "specific thing being measured"-"further description if needed"
 EX: `pull-requests-open.md` EX: `issues-first-response.md`
