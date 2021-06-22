@@ -10,6 +10,13 @@ You can connect to us with the following methods:
 
 Please don’t hesitate to contact us by any of the means listed above when your thoughts about this project come up. Your suggestions are tremendously valuable to us. 
 
+#### Slack Channel and Usage Guidelines
+
+* We are okay with creating new channels as needed
+* When we archive minutes, we also archive inactive channels
+* Channels need to have meaningful names: use prefixes when possible to sort alphabetical list of channels (e.g., #GSOC21_projectname)
+
+
 ### Thank You
 
 Thank you so much for your interest in D&I badging program and wishing to make contributions. All kinds of contributions are appreciated.
