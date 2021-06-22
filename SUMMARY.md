@@ -3,6 +3,10 @@
 * [CHAOSS Community Handbook - Table of Contents](README.md)
 * [Handbook Usage](handbook-usage.md)
 
+## NEWCOMERS
+
+* [Newcomer's Quick Start Guide](newcomers/newcomers-guide.md)
+
 ## ABOUT
 
 * [CHAOSS History](about/chaoss-history.md)
