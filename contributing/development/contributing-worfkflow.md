@@ -35,11 +35,14 @@ $ cd augur/
 
 This is the step where you make desired changes to the codebase inside the respective repository.
 
+Writing a well-crafted Git commit message is the best way to communicate context about a change to fellow developers. Seven rules of a great Git commit message are mentioned in [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/).
+
 ### Sending Pull Request
 
 After you have made the desired changes into your fork version of the repository, you are required to send the pull request with the description explaining your changes. [**Checkout Github guide to creating the Pull Request**](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)\*\*\*\*
 
 At this point, you're waiting on us. We like to at least comment on pull requests within three business days \(and, typically, one business day\). Once one of our maintainers has had a chance to review your PR, we will either mark it as "needs review" and provide specific feedback on your changes, or we will go ahead and complete the pull request.
 
-We require all commits to be signed off with a [Developer Certificate of Origin](https://developercertificate.org/) in accordance with the [CHAOSS charter](https://chaoss.community/about/charter/#user-content-8-intellectual-property-policy). This can be easily done by using the `-s` flag when using `git commit`. For example: `git commit -s -m "Update README.md"`. **Any pull requests containing commits that are not signed off will not be eligible for merge until the commits have been signed off.**
+We require all commits to be signed off with a [Developer Certificate of Origin](https://developercertificate.org/) in accordance with the [CHAOSS charter](https://chaoss.community/about/charter/#user-content-8-intellectual-property-policy). This can be easily done by using the `-s` flag when using `git commit`. For example: `git commit -s -m "Update README.md"`. This can be automated by using a browser plugin like [DCO GitHub UI](https://github.com/scottrigby/dco-gh-ui).
 
+**NOTE**: Any pull requests containing commits that are not signed off will not be eligible for merge until the commits have been signed off.
