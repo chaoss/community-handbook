@@ -23,7 +23,7 @@ You'll need to have some basic programming experience with the technologies and 
   * [Git commands in-depth](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   * [Markdown Tutorial](https://www.markdowntutorial.com/)
-  * [How to Write a Git Commit Message](htthttps://www.fullstackpython.com/django.htmlps://chris.beams.io/posts/git-commit/)
+  * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 ### Languages and Frameworks
 
