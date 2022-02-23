@@ -28,6 +28,10 @@ The published version of the Community Handbook can be found at [https://handboo
 
 {% page-ref page="about/general-faq.md" %}
 
+## NEWCOMERS
+
+{% page-ref page="newcomers/newcomers-guide.md" %}
+
 ## COMMUNITY
 
 {% page-ref page="community-initiatives/working-groups/" %}
