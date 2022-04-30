@@ -31,3 +31,4 @@ CHAOSS metrics are released continuously. The regular release is when we update 
     * Metric Removed:  
         - Social Listening moved to metrics models
         - Project Popularity moved to metrics models
+
