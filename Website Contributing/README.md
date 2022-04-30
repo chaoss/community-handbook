@@ -10,3 +10,4 @@ See [CONTRIBUTING.md](https://github.com/pratik2315/chaoss-pratik-website/blob/c
 ## Website Maintainers
 * Kevin Lumbard - klumbard@unomaha.edu
 * Georg Link - glink@unomaha.edu
+
