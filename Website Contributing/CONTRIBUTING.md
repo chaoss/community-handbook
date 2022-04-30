@@ -26,3 +26,4 @@ For questions, please email the site [maintainers](README.md).
 ## How to become a maintainer of the website and this repository
 1. Make consistent contributions via pull requests.
 2. Request to be a maintainer from the CHAOSS Governing Board, which will grant edit rights and request access to the Wordpress site from the Linux Foundation.
+
