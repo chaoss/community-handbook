@@ -206,3 +206,4 @@ _Refactored the "Code Development" focus area into 3 separate focus areas to mor
 
 - [PDF of released CHAOSS Metrics (v.2019-08)](https://chaoss.github.io/website/release/release-pdfs/CHAOSS-Metrics-Release-2019-08.pdf)
 - Initial CHAOSS Metrics release.
+
