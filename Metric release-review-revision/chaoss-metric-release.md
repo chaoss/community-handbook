@@ -125,4 +125,3 @@ After creating the merged document, add the front-matter
    * Grammar or spelling fixes \(not including metric name\)
    * Updates to sections References and Contributors
    * Ultimately, we need a gardener who ensures consistency and flags metrics that need to be “updated”.
-
