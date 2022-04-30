@@ -47,4 +47,3 @@
 
 * The versioning of the PDFs should be done in the format - `YYYY-MM_language-code`. Example - \``2021-09_EN`, `2022-03_CN`
 * The release version for the translations PDF should be the same as the English metrics PDF used as the basis for translations.
-
