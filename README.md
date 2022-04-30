@@ -1,17 +1,34 @@
-# CHAOSS Community Handbook - Table of Contents
+# Google Season of Docs 2022
 
-The CHAOSS Community Handbook is a central [repository](https://github.com/chaoss/gitbook-test) for how we run the project. As part of our value of being transparent, the handbook is open to the world and we welcome feedback. Please make [pull requests](https://github.com/chaoss/gitbook-test/pulls) to suggest improvements or add clarifications. Please use [issues](https://github.com/chaoss/gitbook-test/issues) to ask questions.
+### Table of Contents
+* [**Introduction**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#project-structure)
+* [**Project Structure**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#project-structure)
 
-The published version of the Community Handbook can be found at [https://handbook.chaoss.community/](https://handbook.chaoss.community/).
+## Project Structure
 
-## CONTRIBUTING
+```text
+  ├── .gitbook/assets   
+  
+  ├── Metric release-review-revision            # compiled docs for release, review and revision
+  ├── Website Contributing                      # compiled documents for website contribution
+  
+  ├── about                                     
+  ├── badging                                   
+  ├── community-initiatives                     
+  ├── contributing                              
+  │    ├── design                               
+  │    ├── development                          
+  │    ├── documentation                        
+  |    ├── outreach.md                          
+  ├── mentorships                               
+  ├── newcomers                                 
+  ├── LICENSE                                   
+  ├── README.md                                 
+  ├── SUMMARY.md                                
+  └── handbook-usage.md                         
+```
+I have added two files `Metric release-review-revision` and `Website Contributing` for my Google Season of Docs application. These two files contain Documents related to Contribution and Metric release, reviews, revision and are compiled from Chaoos's various Github repositories.
 
-{% page-ref page="contributing/development/" %}
-
-{% page-ref page="contributing/documentation/" %}
-
-{% page-ref page="contributing/design/" %}
-
-{% page-ref page="contributing/outreach.md" %}
-
+## TASK 1
+### WEBSITE CONTRIBUTION
 
