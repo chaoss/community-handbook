@@ -3,7 +3,7 @@
 The CHAOSS website is a Wordpress site. Content from this repository is automatically populated on the production site.
 
 ## How to contribute
-See the CHAOSS [contributing.md](https://github.com/pratik2315/chaoss-pratik-website/blob/contribution-docs/Website%20Contributing/community-contributing.md)
+See the CHAOSS [contributing.md]https://github.com/pratik2315/community-handbook/blob/season-of-docs/Website%20Contributing/community-contributing.md)
 
 ## Repository specific guidelines
 * For general issues, please use the Issues 
