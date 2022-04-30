@@ -43,4 +43,3 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 * [**Metric Template**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
 * [**Metrics Tracking Sheet**](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=0)
 * \*\*\*\*[**Continuous Metric Contribution and Regular Release**](releases.md)\*\*\*\*
-
