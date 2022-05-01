@@ -23,7 +23,7 @@ As a part of the Google Season of Docs interest process, I have collected all th
 ```text
   ├── .gitbook/assets   
   |
-  ├── Metric release-review-revision           # compiled docs for release, review and revision          
+  ├── Metric release-review-revision           # compiled docs for metric release, review and revision          
   |    ├── release-pdfs                               
   │    ├── README.md                          
   │    ├── chaoss-metric-release.md                        
@@ -31,7 +31,7 @@ As a part of the Google Season of Docs interest process, I have collected all th
   |    ├── metrics-faq.md
   |    ├── release-history.md                      
   |
-  ├── Website Contributing                      # compiled documents for website contribution
+  ├── Website Contributing                     # compiled documents for website contribution
   |    ├── design                               
   │    ├── development                          
   │    ├── documentation                        
