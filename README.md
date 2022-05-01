@@ -1,7 +1,7 @@
 # Google Season of Docs 2022 
 
 ### Table of Contents
-* [**Introduction**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#introduction)
+* [**Introduction**](#Introduction)
 * [**Project Structure**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#project-structure)
 * [**Task 1**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#task-1)
   - [How to Contribute to the Chaoss Website](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#task-1)
