@@ -2,16 +2,16 @@
 
 ### Table of Contents
 * [**Introduction**](#Introduction)
-* [**Project Structure**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#project-structure)
-* [**Task 1**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#task-1)
-  - [How to Contribute to the Chaoss Website](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#task-1)
-  - [Design](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#design)
-  - [Development](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#development)
-  - [Documentation](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#documentation)
-* [**Task 2**](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#task-2)
-  - [Metrics](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#metrics) 
-  - [Release](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#release)
-  - [Review and Revisions](https://github.com/pratik2315/community-handbook/edit/season-of-docs/README.md#review-and-revisions)
+* [**Project Structure**](#Project-structure)
+* [**Task 1**](#Task-1)
+  - [How to Contribute to the Chaoss Website](#Task-1)
+  - [Design](#Design)
+  - [Development](#Development)
+  - [Documentation](#Documentation)
+* [**Task 2**](#Task-2)
+  - [Metrics](#Metrics) 
+  - [Release](#Release)
+  - [Review and Revisions](#Review-and-revisions)
  
 ## Introduction
 
