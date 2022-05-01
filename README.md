@@ -12,6 +12,7 @@
   - [Metrics](#Metrics) 
   - [Release](#Release)
   - [Review and Revisions](#Review-and-revisions)
+* [**Proposal for GSoD 2022**](#Proposal-for-GSoD-2022)
  
 ## Introduction
 
@@ -85,8 +86,9 @@ If you are interested in metric release history, you should check out [release-h
 CHAOSS metrics are released continuously. The regular release is when we update the version number, update the full release notes, and make a big announcement. These releases occur one to two times a year and may correspond with the dates of a CHAOSScon event. Prior to regular release, continuous released metrics go through a comment period of at least 30 days. To see the latest release notes you can go to [latest-release-notes](https://github.com/pratik2315/community-handbook/blob/season-of-docs/Metric%20release-review-revision/latest-release-notes.md). 
 If you have any additional queries about metric release process, version or other questions you can visit Metrics [Frequently Asked Questions](https://github.com/pratik2315/community-handbook/blob/season-of-docs/Metric%20release-review-revision/metrics-faq.md)
 
-## Review and Revisions
+### Review and Revisions
 The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessing open source communities' health and sustainability. All metrics get approved before they are visible on the website. To know more about the process of metrics getting approved, you can check out Metric [README.md](https://github.com/pratik2315/community-handbook/blob/season-of-docs/Metric%20release-review-revision/README.md). The document also contains information regarding the [Community Review](https://github.com/pratik2315/community-handbook/blob/season-of-docs/Metric%20release-review-revision/README.md#when-should-a-previously-released-metric-be-returned-to-community-review) of the released metrics and some [Metric useful resources](https://github.com/pratik2315/community-handbook/blob/season-of-docs/Metric%20release-review-revision/README.md#-some-metric-useful-resources).
 
 The `chaoss-metric-release` mentioned in the release section also contains important information regarding [Revising](https://github.com/pratik2315/community-handbook/blob/season-of-docs/Metric%20release-review-revision/chaoss-metric-release.md#revising-existing-metrics) the exisiting metric. As the process of developing metric evolves chaoss implements a process to go back to old metrics and revise them every two years.
 
+### Proposal for GSoD 2022
