@@ -8,7 +8,7 @@
   - [Design]()
   - [Development]()
   - [Documentation]()
-  - [Outreach]()
+* [**Metric**]
  
 ## Introduction
 
@@ -57,10 +57,10 @@ Start contributing to the Chaoss website by following the guidelines given in th
 The CONTRIBUTING.md and README.md files contain information about repository specific guidelines and Website maintainers information respectively. Both point to the `contributing.md` for contribution guidelines.
 
 ### Design
-Contribution guidelines for User Interface Design (UI), User Experience Design (UX), Graphic Design and Visual Identity, User Design Research and Documentation. These guidelines are listed in the Community Handbook under the Website header navigation.
+Contribution guidelines for User Interface Design (UI), User Experience Design (UX), Graphic Design and Visual Identity, User Design Research and Documentation. These [Design guidelines](https://github.com/pratik2315/community-handbook/tree/season-of-docs/Website%20Contributing/design) are listed in the Community Handbook under the Website header navigation. 
 
 ### Development
-To contribute to Chaoss projects like Augur, GrimoireLab and Cregit. We need to follow project specific contribution guidelines. This document contains information releated to project guidelines.
+To contribute to Chaoss projects like Augur, GrimoireLab and Cregit. We need to follow project specific contribution guidelines. This document contains contribution information releated to [Development guidelines]https://github.com/pratik2315/community-handbook/tree/season-of-docs/Website%20Contributing/development().
 
 ### Documentation
-Unfortunately, good code won't speak for itself. That's why we need a good documentation for our projects and website. This document explains the documentation contribution guidelines and guides you to submit your documentation related PR.
+Unfortunately, good code won't speak for itself. That's why we need a good documentation for our projects and website. This document explains the [Documentation contribution guidelines](https://github.com/pratik2315/community-handbook/tree/season-of-docs/Website%20Contributing/documentation) and guides you to submit your documentation related PR.
