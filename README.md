@@ -92,3 +92,4 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 The `chaoss-metric-release` mentioned in the release section also contains important information regarding [Revising](https://github.com/pratik2315/community-handbook/blob/season-of-docs/Metric%20release-review-revision/chaoss-metric-release.md#revising-existing-metrics) the exisiting metric. As the process of developing metric evolves chaoss implements a process to go back to old metrics and revise them every two years.
 
 ### Proposal for GSoD 2022
+[Link](https://docs.google.com/document/d/1Hxz6Usu0zgVBcrxjLx8b3RRc_mTvj--ZbzcF2O-hdAw/edit?usp=sharing) to my Google Season of Docs Statement of Interest which references this readme
