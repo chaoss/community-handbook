@@ -1,68 +1,76 @@
----
-description: This page contains the content of the Handbook
----
+# Table of contents
 
-# CHAOSS Community Handbook - Table of Contents
-
-The CHAOSS Community Handbook is a central [repository](https://github.com/chaoss/gitbook-test) for how we run the project. As part of our value of being transparent, the handbook is open to the world and we welcome feedback. Please make [pull requests](https://github.com/chaoss/gitbook-test/pulls) to suggest improvements or add clarifications. Please use [issues](https://github.com/chaoss/gitbook-test/issues) to ask questions.
-
-The published version of the Community Handbook can be found at [https://handbook.chaoss.community/](https://handbook.chaoss.community/).
-
-## ABOUT
-
-{% page-ref page="about/chaoss-history.md" %}
-
-{% page-ref page="about/values.md" %}
-
-{% page-ref page="about/roadmap.md" %}
-
-{% page-ref page="about/roles-and-responsibilities.md" %}
-
-{% page-ref page="about/community-guidelines.md" %}
-
-{% page-ref page="about/path-to-leadership.md" %}
-
-{% page-ref page="about/terminology/" %}
-
-{% page-ref page="about/terminology-usage.md" %}
-
-{% page-ref page="about/general-faq.md" %}
+* [CHAOSS Community Handbook - Table of Contents](README.md)
+* [Handbook Usage](handbook-usage.md)
 
 ## NEWCOMERS
 
-{% page-ref page="newcomers/newcomers-guide.md" %}
+* [Newcomer's Quick Start Guide](newcomers/newcomers-guide.md)
 
-## COMMUNITY
+## ABOUT
 
-{% page-ref page="community-initiatives/working-groups/" %}
+* [CHAOSS History](about/chaoss-history.md)
+* [Values](about/values.md)
+* [Roadmap](about/roadmap.md)
+* [Roles and Responsibilities](about/roles-and-responsibilities.md)
+* [Community Guidelines](about/community-guidelines.md)
+* [Path to Leadership](about/path-to-leadership.md)
+* [Terminology](about/terminology/README.md)
+  * [CHAOSS Specific Terms](about/terminology/chaoss-specific-terms.md)
+  * [CHAOSS Committees](about/terminology/chaoss-committees.md)
+  * [CHAOSS Community Working Group Terminology](about/terminology/wg-terminology.md)
+  * [CHAOSS Community Mentorship Terminology](about/terminology/chaoss-community-mentorship-terminology.md)
+* [Terminology Usage](about/terminology-usage.md)
+* [General FAQ](about/general-faq.md)
 
-{% page-ref page="community-initiatives/metrics/" %}
+## COMMUNITY <a id="community-initiatives"></a>
 
-{% page-ref page="community-initiatives/community-report.md" %}
-
-{% page-ref page="community-initiatives/chaosscon.md" %}
-
-{% page-ref page="community-initiatives/chaosscast.md" %}
-
-{% page-ref page="community-initiatives/chaoss-meetings.md" %}
+* [Working Groups](community-initiatives/working-groups/README.md)
+  * [WG Repository Structure](community-initiatives/working-groups/wg-repository-structure.md)
+* [Metrics](community-initiatives/metrics/README.md)
+  * [Releases](community-initiatives/metrics/releases.md)
+  * [Translation](community-initiatives/metrics/translation.md)
+  * [Metrics FAQ](community-initiatives/metrics/metrics-faq.md)
+* [Community Report](community-initiatives/community-report.md)
+* [CHAOSScon](community-initiatives/chaosscon.md)
+* [CHAOSScast](community-initiatives/chaosscast.md)
+* [CHAOSS Meetings](community-initiatives/chaoss-meetings.md)
 
 ## CONTRIBUTING
 
-{% page-ref page="contributing/development/" %}
-
-{% page-ref page="contributing/documentation/" %}
-
-{% page-ref page="contributing/design/" %}
-
-{% page-ref page="contributing/outreach.md" %}
+* [Development](contributing/development/README.md)
+  * [Contributing Workflow](contributing/development/contributing-worfkflow.md)
+* [Documentation](contributing/documentation/README.md)
+  * [Style Guide](contributing/documentation/style-guide.md)
+* [Design](contributing/design/README.md)
+  * [Design Workflow](contributing/design/design-worklfow.md)
+  * [Design Contribution](contributing/design/design-contribution.md)
+  * [CHAOSS Visual Identity](contributing/design/chaoss-visual-identity.md)
+* [Outreach](contributing/outreach.md)
 
 ## MENTORSHIPS
 
-{% page-ref page="mentorships/google-summer-of-code.md" %}
+* [Google Summer of Code](mentorships/google-summer-of-code.md)
+* [Google Season of Docs](mentorships/google-season-of-docs.md)
+* [GSoC/GSoD Roles & Responsibilities](mentorships/mentorship-roles-and-responsibilities.md)
+* [Outreachy](mentorships/outreachy.md)
 
-{% page-ref page="mentorships/google-season-of-docs.md" %}
+## D&I BADGING <a id="badging"></a>
 
-{% page-ref page="mentorships/mentorship-roles-and-responsibilities.md" %}
-
-{% page-ref page="mentorships/outreachy.md" %}
+* [Overview of the D&I Badging](badging/overview.md)
+* [How to contribute](badging/how-to-contribute.md)
+* [Apply for a badge](badging/apply-for-a-badge/README.md)
+  * [Apply for an In-Person Event](badging/apply-for-a-badge/apply-for-in-person-event.md)
+  * [Apply for a Virtual Event](badging/apply-for-a-badge/apply-for-virtual-event.md)
+* [Reviewing for CHAOSS](badging/reviewing/README.md)
+  * [Apply to Review](badging/reviewing/apply-to-review.md)
+  * [The Review Process](badging/reviewing/the-review-process.md)
+  * [Conflict of Interest Policy](badging/reviewing/conflict-of-interest-policy.md)
+* [Badging Roles](badging/roles-and-responsibility/README.md)
+  * [Applicant](badging/roles-and-responsibility/applicant.md)
+  * [Reviewer](badging/roles-and-responsibility/reviewer.md)
+  * [Moderator](badging/roles-and-responsibility/moderator.md)
+  * [Maintainer](badging/roles-and-responsibility/maintainer.md)
+* [The badging-bot](badging/the-badging-bot.md)
+* [D&I Badging Code of Conduct](badging/d-and-i-badging-code-of-conduct.md)
 
