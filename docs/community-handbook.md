@@ -1,4 +1,7 @@
-# Table of contents
+# Project Name Community Handbook v0.0.0
+
+## Introduction
+Let us now learn of the language and customs within the CHAOSS Project.
 
 ## NEWCOMERS
 
