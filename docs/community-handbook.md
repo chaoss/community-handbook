@@ -1,7 +1,7 @@
-# Table of contents
+# Project Name Community Handbook v0.0.0
 
-* [CHAOSS Community Handbook - Table of Contents](README.md)
-* [Handbook Usage](handbook-usage.md)
+## Introduction
+Let us now learn of the language and customs within the CHAOSS Project.
 
 ## NEWCOMERS
 
